@@ -12,7 +12,7 @@
 
 do_action('belco_footer_style');
 
-wp_footerr(); ?>
+wp_footer(); ?>
 </body>
 
 </html>
