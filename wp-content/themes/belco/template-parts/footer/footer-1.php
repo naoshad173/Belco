@@ -14,12 +14,6 @@ $belco_copyright_center = $belco_footer_logo ? 'col-lg-4 offset-lg-4 col-md-6 te
 $belco_footer_bg_url_from_page = function_exists('get_field') ? get_field('belco_footer_bg') : '';
 $belco_footer_bg_color_from_page = function_exists('get_field') ? get_field('belco_footer_bg_color') : '';
 
-// bg image
-$bg_img = !empty($belco_footer_bg_url_from_page['url']) ? $belco_footer_bg_url_from_page['url'] : $footer_bg_img;
-
-// bg color
-$bg_color = !empty($belco_footer_bg_color_from_page) ? $belco_footer_bg_color_from_page : $footer_bg_color;
-
 
 // footer_columns
 $footer_columns = 0;
