@@ -10731,7 +10731,7 @@ dl, ol, ul {
 .page-header__inner {
 	position: relative;
 	display: block;
-	text-align: center;
+	text-align: centera;
 	z-index: 15;
 }
 
