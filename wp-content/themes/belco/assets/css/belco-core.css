@@ -5484,7 +5484,7 @@ dl, ol, ul {
 	z-index: 1;
 }
 
-.news-one__single::before {
+.news-one__person-and-date:before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -5505,7 +5505,7 @@ dl, ol, ul {
 	z-index: -1;
 }
 
-.news-one__single:hover::before {
+.news-one__person-and-date:hover::before {
 	transform: scaleY(1.0);
 }
 
@@ -10731,7 +10731,7 @@ dl, ol, ul {
 .page-header__inner {
 	position: relative;
 	display: block;
-	text-align: centera;
+	text-align: center;
 	z-index: 15;
 }
 
