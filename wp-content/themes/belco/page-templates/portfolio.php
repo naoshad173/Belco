@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Template Name: Course Sidebar
+ * Template Name: Portfolio
  * @package belco
  */
 
@@ -191,9 +191,7 @@ get_header();
       </div>
    </section>
    <!--Cta Four End-->
-
 </main>
-
 
 <?php
 get_footer();

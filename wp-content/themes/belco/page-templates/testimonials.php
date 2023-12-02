@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Template Name: Sign Up
+ * Template Name: Testimonials
  * @package belco
  */
 

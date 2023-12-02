@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Template Name: Course List
+ * Template Name: Appointment
  * @package belco
  */
 
