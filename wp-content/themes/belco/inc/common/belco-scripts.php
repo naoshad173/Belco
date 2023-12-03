@@ -33,6 +33,7 @@ function belco_scripts()
     wp_enqueue_style('timePicker', BELCO_THEME_CSS_DIR . 'timePicker.css', []);
     wp_enqueue_style('belco-core', BELCO_THEME_CSS_DIR . 'belco-core.css', []);
     wp_enqueue_style('belco-responsive', BELCO_THEME_CSS_DIR . 'belco-responsive.css', []);
+    wp_enqueue_style('belco-dark', BELCO_THEME_CSS_DIR . 'belco-dark.css', []);
     wp_enqueue_style('belco-unit', BELCO_THEME_CSS_DIR . 'belco-unit.css', []);
     wp_enqueue_style('belco-custom', BELCO_THEME_CSS_DIR . 'belco-custom.css', []);
     wp_enqueue_style('belco-style', get_stylesheet_uri());
