@@ -126,45 +126,45 @@ get_header();
    <!--Main Sllider Start -->
 
    <!--Feature One Start -->
-   <section class="feature-one">
+   <section class="feature-one" id="feature-two">
       <div class="container">
          <div class="row">
             <div class="col-xl-8">
-               <div class="feature-one__right">
+               <div class="feature-one__right-two">
                   <div class="row">
                      <!--Feature One Single Start-->
                      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
-                        <div class="feature-one__single">
-                           <div class="feature-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
-                           <div class="feature-one__icon">
+                        <div class="feature-one__single-two">
+                           <div class="feature-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
+                           <div class="feature-one__icon-two">
                               <span class="fa-light fa-handshake"></span>
                            </div>
-                           <h3 class="feature-one__title"><a href="service-details.html">Business Advice</a></h3>
-                           <p class="feature-one__text">We make the over insurance quoting purchasing.</p>
+                           <h3 class="feature-one__title-two"><a href="service-details.html">Business Advice</a></h3>
+                           <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
                      <!--Feature One Single End-->
                      <!--Feature One Single Start-->
                      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="feature-one__single">
-                           <div class="feature-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
-                           <div class="feature-one__icon">
+                        <div class="feature-one__single-two">
+                           <div class="feature-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
+                           <div class="feature-one__icon-two">
                               <span class="fa-light fa-chart-mixed"></span>
                            </div>
-                           <h3 class="feature-one__title"><a href="service-details.html">Financial Advice</a></h3>
-                           <p class="feature-one__text">We make the over insurance quoting purchasing.</p>
+                           <h3 class="feature-one__title-two"><a href="service-details.html">Financial Advice</a></h3>
+                           <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
                      <!--Feature One Single End-->
                      <!--Feature One Single Start-->
                      <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="300ms">
-                        <div class="feature-one__single">
-                           <div class="feature-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
-                           <div class="feature-one__icon">
+                        <div class="feature-one__single-two">
+                           <div class="feature-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/resources/feature-1-1.jpg)"></div>
+                           <div class="feature-one__icon-two">
                               <span class="fa-light fa-users"></span>
                            </div>
-                           <h3 class="feature-one__title"><a href="service-details.html">Risk Management</a></h3>
-                           <p class="feature-one__text">We make the over insurance quoting purchasing.</p>
+                           <h3 class="feature-one__title-two"><a href="service-details.html">Risk Management</a></h3>
+                           <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
                      <!--Feature One Single End-->
@@ -172,12 +172,12 @@ get_header();
                </div>
             </div>
             <div class="col-xl-4">
-               <div class="feature-one__left">
+               <div class="feature-one__left-two">
                   <div class="section-title text-left">
-                     <div class="section-title__tagline-box">
-                        <p class="section-title__tagline">FEATURES</p>
+                     <div class="section-title__tagline-box-two">
+                        <p class="section-title__tagline-two">FEATURES</p>
                      </div>
-                     <h2 class="section-title__title">Easy solutions for your Agency problems.</h2>
+                     <h2 class="section-title__title-two">Easy solutions for your Agency problems.</h2>
                   </div>
                </div>
             </div>
@@ -187,7 +187,7 @@ get_header();
    <!--Feature One Start -->
 
    <!--About One Start -->
-   <section class="about-one">
+   <section class="about-one" id="about-dark">
       <div class="about-one__shape-3 float-bob-y">
          <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/about-one-shape-3.png" alt="" />
       </div>
@@ -214,17 +214,17 @@ get_header();
             <div class="col-xl-6">
                <div class="about-one__right">
                   <div class="section-title text-left">
-                     <div class="section-title__tagline-box">
-                        <p class="section-title__tagline">ABOUT US</p>
+                     <div class="section-title__tagline-box-two">
+                        <p class="section-title__tagline-two">ABOUT US</p>
                      </div>
-                     <h2 class="section-title__title">Easy solutions for your Agency problems.</h2>
+                     <h2 class="section-title__title-two">Easy solutions for your Agency problems.</h2>
                   </div>
-                  <p class="about-one__text">
+                  <p class="about-one__text-two">
                      Lorem Ipsum is simply dummy text of the printing and typesetting <br />
                      industry. Lorem Ipsum has been the industry's standard dummy <br />
                      text ever since the 1500s, when an unknown printer.
                   </p>
-                  <ul class="about-one__points list-unstyled">
+                  <ul class="about-one__points-two list-unstyled">
                      <li>
                         <div class="icon">
                            <span class="fa-light fa-check"></span>
@@ -253,37 +253,37 @@ get_header();
    <!--About One End -->
 
    <!--Services One Start -->
-   <section class="services-one">
+   <section class="services-one" id="services-dark">
       <div class="services-one__shape-4 shape-mover">
          <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-4.png" alt="" />
       </div>
       <div class="container">
          <div class="section-title text-center">
             <div class="section-title__tagline-box">
-               <p class="section-title__tagline">CRAETIVE SERVICES</p>
+               <p class="section-title__tagline-two">CRAETIVE SERVICES</p>
             </div>
-            <h2 class="section-title__title">Services we’re providing to <br />our customers</h2>
+            <h2 class="section-title__title-two">Services we’re providing to <br />our customers</h2>
          </div>
          <div class="row">
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-handshake"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-details.html">Business Audit</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Business Audit</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
+                     <div class="services-one__read-more-two">
                         <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
@@ -292,23 +292,23 @@ get_header();
             <!--Services One Single End-->
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-memo-circle-check"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-details.html">Tax Strategy</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Tax Strategy</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
+                     <div class="services-one__read-more-two">
                         <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
@@ -317,24 +317,24 @@ get_header();
             <!--Services One Single End-->
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="300ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-chart-mixed"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-detailsservice-details.html">Financial Advices</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Financial Advices</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
-                        <a href="service-detailsservice-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <div class="services-one__read-more-two">
+                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -342,24 +342,24 @@ get_header();
             <!--Services One Single End-->
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-house-building"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-detailsservice-details.html">Insurance Strategy</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Insurance Strategy</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
-                        <a href="service-detailsservice-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <div class="services-one__read-more-two">
+                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -367,23 +367,23 @@ get_header();
             <!--Services One Single End-->
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-pen-to-square"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-details.html">Start Ups</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Start Ups</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
+                     <div class="services-one__read-more-two">
                         <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
@@ -392,23 +392,23 @@ get_header();
             <!--Services One Single End-->
             <!--Services One Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInRight" data-wow-delay="600ms">
-               <div class="services-one__single">
-                  <div class="services-one__single-hover-bg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
-                  <div class="services-one__icon">
+               <div class="services-one__single-two">
+                  <div class="services-one__single-hover-bg-two" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/services/services-one-hover-img.jpg)"></div>
+                  <div class="services-one__icon-two">
                      <span class="fa-light fa-hand-holding-dollar"></span>
-                     <div class="services-one__shape-1">
+                     <div class="services-one__shape-1-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-1.png" alt="" />
                      </div>
-                     <div class="services-one__shape-2">
+                     <div class="services-one__shape-2-two">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/services-one-shape-2.png" alt="" />
                      </div>
                   </div>
-                  <div class="services-one__content">
-                     <h3 class="services-one__title"><a href="service-details.html">Manage Investment</a></h3>
-                     <p class="services-one__text">
+                  <div class="services-one__content-two">
+                     <h3 class="services-one__title-two"><a href="service-details.html">Manage Investment</a></h3>
+                     <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
-                     <div class="services-one__read-more">
+                     <div class="services-one__read-more-two">
                         <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
@@ -455,13 +455,13 @@ get_header();
    <!--CTA One End -->
 
    <!--Why Choose One Start -->
-   <section class="why-choose-one">
+   <section class="why-choose-one" id="why-choose-dark">
       <div class="container">
          <div class="row">
             <div class="col-xl-6">
-               <div class="why-choose-one__right">
-                  <div class="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                     <div class="why-choose-one__shape-2 float-bob-y">
+               <div class="why-choose-one__right-two">
+                  <div class="why-choose-one__img-two wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                     <div class="why-choose-one__shape-2-two float-bob-y">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shapes/why-choose-one-shape-2.png" alt="" />
                      </div>
                      <img src="<?php echo get_template_directory_uri(); ?>/assets/images/resources/why-choose-one-img-1.jpg" alt="" />
@@ -469,18 +469,18 @@ get_header();
                </div>
             </div>
             <div class="col-xl-6">
-               <div class="why-choose-one__left">
-                  <div class="section-title text-left">
-                     <div class="section-title__tagline-box">
-                        <p class="section-title__tagline">Why Choose Us</p>
+               <div class="why-choose-one__left-two">
+                  <div class="section-title-two text-left">
+                     <div class="section-title__tagline-box-two">
+                        <p class="section-title__tagline-two">Why Choose Us</p>
                      </div>
-                     <h2 class="section-title__title">We make creative <br />plan for agency solution</h2>
+                     <h2 class="section-title__title-two">We make creative <br />plan for agency solution</h2>
                   </div>
-                  <p class="why-choose-one__text">
+                  <p class="why-choose-one__text-two">
                      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
                      industry's standard dummy
                   </p>
-                  <ul class="why-choose-one__points list-unstyled">
+                  <ul class="why-choose-one__points-two list-unstyled">
                      <li>
                         <div class="icon">
                            <span class="fa-light fa-users"></span>
@@ -507,7 +507,7 @@ get_header();
                      </li>
                   </ul>
                   <div class="why-choose-one__btn-box">
-                     <a href="contact.html" class="why-choose-one__btn thm-btn">Contact Us</a>
+                     <a href="contact.html" class="why-choose-one__btn thm-btn-3">Contact Us</a>
                   </div>
                </div>
             </div>
@@ -517,13 +517,13 @@ get_header();
    <!--Why Choose One End -->
 
    <!--Portfolio One Start -->
-   <section class="portfolio-one">
+   <section class="portfolio-one" id="portfolio-dark">
       <div class="container">
          <div class="section-title text-center">
-            <div class="section-title__tagline-box">
-               <p class="section-title__tagline">Recent CASE STUDIES</p>
+            <div class="section-title__tagline-box-two">
+               <p class="section-title__tagline-two">Recent CASE STUDIES</p>
             </div>
-            <h2 class="section-title__title">
+            <h2 class="section-title__title-two">
                We Are Specialist For Extra <br />
                Consulting Cases
             </h2>
@@ -610,7 +610,7 @@ get_header();
    <!--Portfolio One End -->
 
    <!--Counter One Start -->
-   <section class="counter-one">
+   <section class="counter-one" id="counter-dark">
       <div class="container">
          <div class="counter-one__inner">
             <div class="counter-one__bg float-bob-y" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/images/backgrounds/counter-one-bg.png)"></div>
@@ -660,13 +660,13 @@ get_header();
    <!--Counter One End -->
 
    <!--Pricing One Start-->
-   <section class="pricing-one">
+   <section class="pricing-one" id="pricing-dark">
       <div class="container">
          <div class="section-title text-center">
-            <div class="section-title__tagline-box">
-               <p class="section-title__tagline">pricing plans</p>
+            <div class="section-title__tagline-box-two">
+               <p class="section-title__tagline-two">pricing plans</p>
             </div>
-            <h2 class="section-title__title">
+            <h2 class="section-title__title-two">
                Offering Our Best Plan For Your <br />
                Business Purpose
             </h2>
@@ -683,17 +683,17 @@ get_header();
                      <div class="row">
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Basic Plan</p>
-                                    <h3 class="pricing-one__price">$15<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Basic Plan</p>
+                                    <h3 class="pricing-one__price-two">$15<span>/montly</span></h3>
+                                    <p class="pricing-one__text" -two>Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <ul class="list-unstyled pricing-one__points-list">
+                                 <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
                                        <div class="icon">
                                           <span class="fa-light fa-check"></span>
@@ -727,8 +727,8 @@ get_header();
                                        </div>
                                     </li>
                                  </ul>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -736,17 +736,17 @@ get_header();
                         <!--Pricing Page Single End-->
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single pricing-one__single-2">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two pricing-one__single-2-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Standard Plan</p>
-                                    <h3 class="pricing-one__price">$39<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Standard Plan</p>
+                                    <h3 class="pricing-one__price-two">$39<span>/montly</span></h3>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <ul class="list-unstyled pricing-one__points-list">
+                                 <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
                                        <div class="icon">
                                           <span class="fa-light fa-check"></span>
@@ -780,8 +780,8 @@ get_header();
                                        </div>
                                     </li>
                                  </ul>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -789,17 +789,17 @@ get_header();
                         <!--Pricing Page Single End-->
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single pricing-one__single-3">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two pricing-one__single-3-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Premium Plan</p>
-                                    <h3 class="pricing-one__price">$59<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Premium Plan</p>
+                                    <h3 class="pricing-one__price-two">$59<span>/montly</span></h3>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <ul class="list-unstyled pricing-one__points-list">
+                                 <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
                                        <div class="icon">
                                           <span class="fa-light fa-check"></span>
@@ -833,8 +833,8 @@ get_header();
                                        </div>
                                     </li>
                                  </ul>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -845,22 +845,22 @@ get_header();
                </div>
                <!--tab-->
                <div class="tab active-tab" id="yearly">
-                  <div class="pricing-one__inner">
+                  <div class="pricing-one__inner-two">
                      <div class="row">
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Basic Plan</p>
-                                    <h3 class="pricing-one__price">$15<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Basic Plan</p>
+                                    <h3 class="pricing-one__price-two">$15<span>/montly</span></h3>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <div class="pricing-one__points-box">
-                                    <ul class="list-unstyled pricing-one__points-list">
+                                 <div class="pricing-one__points-box-two">
+                                    <ul class="list-unstyled pricing-one__points-list-two">
                                        <li>
                                           <div class="icon">
                                              <span class="fa-light fa-check"></span>
@@ -895,8 +895,8 @@ get_header();
                                        </li>
                                     </ul>
                                  </div>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -904,17 +904,17 @@ get_header();
                         <!--Pricing Page Single End-->
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single pricing-one__single-2">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two pricing-one__single-2-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Standard Plan</p>
-                                    <h3 class="pricing-one__price">$39<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Standard Plan</p>
+                                    <h3 class="pricing-one__price-two">$39<span>/montly</span></h3>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <ul class="list-unstyled pricing-one__points-list">
+                                 <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
                                        <div class="icon">
                                           <span class="fa-light fa-check"></span>
@@ -948,8 +948,8 @@ get_header();
                                        </div>
                                     </li>
                                  </ul>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -957,17 +957,17 @@ get_header();
                         <!--Pricing Page Single End-->
                         <!--Pricing Page Single Start-->
                         <div class="col-xl-4 col-lg-4">
-                           <div class="pricing-one__single pricing-one__single-3">
-                              <div class="pricing-one__single-inner">
-                                 <div class="pricing-one__most-popular">
+                           <div class="pricing-one__single-two pricing-one__single-3-two">
+                              <div class="pricing-one__single-inner-two">
+                                 <div class="pricing-one__most-popular-two">
                                     <p>Most Popular</p>
                                  </div>
-                                 <div class="pricing-one__price-box">
-                                    <p class="pricing-one__price-title">Premium Plan</p>
-                                    <h3 class="pricing-one__price">$59<span>/montly</span></h3>
-                                    <p class="pricing-one__text">Popularised in the follower with the etraset sheets containing.</p>
+                                 <div class="pricing-one__price-box-two">
+                                    <p class="pricing-one__price-title-two">Premium Plan</p>
+                                    <h3 class="pricing-one__price-two">$59<span>/montly</span></h3>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
-                                 <ul class="list-unstyled pricing-one__points-list">
+                                 <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
                                        <div class="icon">
                                           <span class="fa-light fa-check"></span>
@@ -1001,8 +1001,8 @@ get_header();
                                        </div>
                                     </li>
                                  </ul>
-                                 <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                 <div class="pricing-one__btn-two-box">
+                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -1064,8 +1064,8 @@ get_header();
                                 }
                             }'>
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single">
-                        <p class="testimonial-one__text">
+                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                        <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
                            lacking. "
@@ -1074,7 +1074,7 @@ get_header();
                            <div class="testimonial-one__client-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/testimonial/testimonial-1-1.jpg" alt="" />
                            </div>
-                           <div class="testimonial-one__client-info">
+                           <div class="testimonial-one__client-info-two">
                               <h3>Jacob Jones</h3>
                               <p>President of Sales</p>
                            </div>
@@ -1082,8 +1082,8 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single">
-                        <p class="testimonial-one__text">
+                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                        <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
                            lacking. "
@@ -1092,7 +1092,7 @@ get_header();
                            <div class="testimonial-one__client-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/testimonial/testimonial-1-2.jpg" alt="" />
                            </div>
-                           <div class="testimonial-one__client-info">
+                           <div class="testimonial-one__client-info-two">
                               <h3>Micle Deno</h3>
                               <p>President of Sales</p>
                            </div>
@@ -1100,8 +1100,8 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single">
-                        <p class="testimonial-one__text">
+                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                        <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
                            lacking. "
@@ -1110,7 +1110,7 @@ get_header();
                            <div class="testimonial-one__client-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/testimonial/testimonial-1-1.jpg" alt="" />
                            </div>
-                           <div class="testimonial-one__client-info">
+                           <div class="testimonial-one__client-info-two">
                               <h3>Jacob Jones</h3>
                               <p>President of Sales</p>
                            </div>
@@ -1118,8 +1118,8 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single">
-                        <p class="testimonial-one__text">
+                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                        <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
                            lacking. "
@@ -1128,7 +1128,7 @@ get_header();
                            <div class="testimonial-one__client-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/testimonial/testimonial-1-2.jpg" alt="" />
                            </div>
-                           <div class="testimonial-one__client-info">
+                           <div class="testimonial-one__client-info-two">
                               <h3>Micle Deno</h3>
                               <p>President of Sales</p>
                            </div>
@@ -1144,13 +1144,13 @@ get_header();
    <!--Testimonial One End-->
 
    <!--Team One Start-->
-   <section class="team-one">
+   <section class="team-one" id="team-dark">
       <div class="container">
          <div class="section-title text-center">
-            <div class="section-title__tagline-box">
-               <p class="section-title__tagline">TEAM MEMBERS</p>
+            <div class="section-title__tagline-box-two">
+               <p class="section-title__tagline-two">TEAM MEMBERS</p>
             </div>
-            <h2 class="section-title__title">Meet Our Experts</h2>
+            <h2 class="section-title__title-two">Meet Our Experts</h2>
          </div>
          <div class="row">
             <!--Team One SIngle Start-->
@@ -1246,17 +1246,17 @@ get_header();
    <!--Team One End-->
 
    <!--FAQ One Start-->
-   <section class="faq-one">
+   <section class="faq-one" id="faq-dark">
       <div class="container">
          <div class="row">
             <div class="col-xl-7 col-lg-7">
                <div class="faq-one__right">
                   <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                     <div class="accrodion">
-                        <div class="accrodion-title">
+                     <div id="acordion-dark" class="accrodion">
+                        <div id="accordion-title-two" class="accrodion-title">
                            <h4><span>Q1.</span>What activities are done in the development?</h4>
                         </div>
-                        <div class="accrodion-content">
+                        <div id="accordion-two" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1267,11 +1267,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div class="accrodion active">
-                        <div class="accrodion-title">
+                     <div id="acordion-dark" class="accrodion active">
+                        <div id="accordion-title-two" class="accrodion-title">
                            <h4><span>Q2.</span>How can i use landbook When should I use a Tag?</h4>
                         </div>
-                        <div class="accrodion-content">
+                        <div id="accordion-two" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1282,11 +1282,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div class="accrodion">
-                        <div class="accrodion-title">
+                     <div id="acordion-dark" class="accrodion">
+                        <div id="accordion-title-two" class="accrodion-title">
                            <h4><span>Q3.</span>Are social media good for the business growth?</h4>
                         </div>
-                        <div class="accrodion-content">
+                        <div id="accordion-two" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1297,11 +1297,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div class="accrodion">
-                        <div class="accrodion-title">
+                     <div id="acordion-dark" class="accrodion">
+                        <div id="accordion-title-two" class="accrodion-title">
                            <h4><span>Q4.</span>How often should i work on the digital marketing?</h4>
                         </div>
-                        <div class="accrodion-content">
+                        <div id="accordion-two" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1312,11 +1312,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div class="accrodion">
-                        <div class="accrodion-title">
+                     <div id="acordion-dark" class="accrodion">
+                        <div id="accordion-title-two" class="accrodion-title">
                            <h4><span>Q5.</span>What are the different types of marketing solutions?</h4>
                         </div>
-                        <div class="accrodion-content">
+                        <div id="accordion-two" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1333,10 +1333,10 @@ get_header();
             <div class="col-xl-5 col-lg-5">
                <div class="faq-one__left">
                   <div class="section-title text-left">
-                     <div class="section-title__tagline-box">
-                        <p class="section-title__tagline">FAQs</p>
+                     <div class="section-title__tagline-box-two">
+                        <p class="section-title__tagline-two">FAQs</p>
                      </div>
-                     <h2 class="section-title__title">Frequently asked questions</h2>
+                     <h2 class="section-title__title-two">Frequently asked questions</h2>
                   </div>
                   <div class="faq-one__img">
                      <img src="<?php echo get_template_directory_uri(); ?>/assets/images/resources/faq-one-img-1.jpg" alt="" />
@@ -1352,13 +1352,13 @@ get_header();
    <!--FAQ One End-->
 
    <!--News One Start-->
-   <section class="news-one">
+   <section class="news-one" id="news-dark">
       <div class="container">
          <div class="section-title text-center">
-            <div class="section-title__tagline-box">
-               <p class="section-title__tagline">Latest Blog</p>
+            <div class="section-title__tagline-box-two">
+               <p class="section-title__tagline-two">Latest Blog</p>
             </div>
-            <h2 class="section-title__title">
+            <h2 class="section-title__title-two">
                Learn about our latest <br />
                news from blog.
             </h2>
@@ -1372,20 +1372,20 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-1-1.jpg" alt="" />
                      </div>
                   </div>
-                  <div class="news-one__content">
-                     <div class="news-one__content-top">
+                  <div class="news-one__content-two">
+                     <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
-                        <h3 class="news-one__title">
+                        <h3 class="news-one__title-two">
                            <a href="news-details.html">We would love to share a similar experience</a>
                         </h3>
-                        <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+                        <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
                      <div class="news-one__person-and-date">
                         <div class="news-one__person">
                            <div class="news-one__person-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-one-person-img.jpg" alt="" />
                            </div>
-                           <div class="news-one__person-text">
+                           <div class="news-one__person-text-two">
                               <p>by John Carry on</p>
                            </div>
                         </div>
@@ -1405,20 +1405,20 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-1-2.jpg" alt="" />
                      </div>
                   </div>
-                  <div class="news-one__content">
-                     <div class="news-one__content-top">
+                  <div class="news-one__content-two">
+                     <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
-                        <h3 class="news-one__title">
+                        <h3 class="news-one__title-two">
                            <a href="news-details.html">What activities are done in the development?</a>
                         </h3>
-                        <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+                        <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
                      <div class="news-one__person-and-date">
                         <div class="news-one__person">
                            <div class="news-one__person-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-one-person-img-2.jpg" alt="" />
                            </div>
-                           <div class="news-one__person-text">
+                           <div class="news-one__person-text-two">
                               <p>by John Carry on</p>
                            </div>
                         </div>
@@ -1438,20 +1438,20 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-1-3.jpg" alt="" />
                      </div>
                   </div>
-                  <div class="news-one__content">
-                     <div class="news-one__content-top">
+                  <div class="news-one__content-two">
+                     <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
-                        <h3 class="news-one__title">
+                        <h3 class="news-one__title-two">
                            <a href="news-details.html">What is the most important thing in a designing?</a>
                         </h3>
-                        <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
+                        <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
                      <div class="news-one__person-and-date">
                         <div class="news-one__person">
                            <div class="news-one__person-img">
                               <img src="<?php echo get_template_directory_uri(); ?>/assets/images/blog/news-one-person-img-3.jpg" alt="" />
                            </div>
-                           <div class="news-one__person-text">
+                           <div class="news-one__person-text-two">
                               <p>by John Carry on</p>
                            </div>
                         </div>
@@ -1469,25 +1469,25 @@ get_header();
    <!--News One End-->
 
    <!--Appointment One Start-->
-   <section class="appointment-one">
-      <div class="appointment-one__inner">
+   <section class="appointment-one" id="appointment-dark">
+      <div class="appointment-one__inner-two">
          <div class="container">
             <div class="row">
                <div class="col-xl-8 col-lg-7">
                   <div class="appointment-one__right">
                      <div class="appointment-one__form-box">
-                        <form action="assets/inc/sendemail.php" class="appointment-one__form contact-form-validated" novalidate="novalidate">
+                        <form action="<?php echo get_template_directory_uri(); ?>/assets/inc/sendemail.php" class="appointment-one__form contact-form-validated" novalidate="novalidate">
                            <div class="row">
                               <div class="col-xl-6">
-                                 <div class="appointment-one__input-box">
-                                    <h3 class="appointment-one__input-title">Name *</h3>
+                                 <div class="appointment-one__input-box-two">
+                                    <h3 class="appointment-one__input-title-two">Name *</h3>
                                     <input type="text" placeholder="John Smith" name="name" />
                                  </div>
                               </div>
                               <div class="col-xl-6">
-                                 <div class="appointment-one__input-box">
-                                    <h3 class="appointment-one__input-title">Service Type</h3>
-                                    <div class="appointment-one__showing-sort">
+                                 <div class="appointment-one__input-box-two">
+                                    <h3 class="appointment-one__input-title-two">Service Type</h3>
+                                    <div id="appointment-one__showing-sort-two" class="appointment-one__showing-sort">
                                        <select class="selectpicker" aria-label="Default select example">
                                           <option selected>Select ...</option>
                                           <option value="1">Sort by popular-01</option>
@@ -1498,20 +1498,20 @@ get_header();
                                  </div>
                               </div>
                               <div class="col-xl-6">
-                                 <div class="appointment-one__input-box">
-                                    <h3 class="appointment-one__input-title">Email *</h3>
+                                 <div class="appointment-one__input-box-two">
+                                    <h3 class="appointment-one__input-title-two">Email *</h3>
                                     <input type="email" placeholder="e.g:" name="email" />
                                  </div>
                               </div>
                               <div class="col-xl-6">
-                                 <div class="appointment-one__input-box text-message-box">
-                                    <h3 class="appointment-one__input-title">Message <span>(Oprional)</span></h3>
+                                 <div id="text-black" class="appointment-one__input-box text-message-box">
+                                    <h3 class="appointment-one__input-title-two">Message <span>(Oprional)</span></h3>
                                     <textarea name="message" placeholder="Type here..."></textarea>
                                  </div>
                               </div>
                               <div class="col-xl-6">
-                                 <div class="appointment-one__input-box appointment-one__input-box-2">
-                                    <h3 class="appointment-one__input-title">Phone Number *</h3>
+                                 <div class="appointment-one__input-box-two appointment-one__input-box-2">
+                                    <h3 class="appointment-one__input-title-two">Phone Number *</h3>
                                     <input type="text" placeholder="+1 (00)" name="email" />
                                  </div>
                                  <div class="appointment-one__btn-box">
@@ -1526,8 +1526,8 @@ get_header();
                </div>
                <div class="col-xl-4 col-lg-5">
                   <div class="appointment-one__left">
-                     <h3 class="appointment-one__title">Book a Appointment</h3>
-                     <p class="appointment-one__text">
+                     <h3 class="appointment-one__title-two">Book a Appointment</h3>
+                     <p class="appointment-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy
                      </p>
@@ -1608,6 +1608,7 @@ get_header();
       </div>
    </section>
    <!--Brand One End-->
+
 </main>
 
 
