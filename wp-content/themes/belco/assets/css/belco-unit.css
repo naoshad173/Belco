@@ -1642,7 +1642,31 @@ h3.footer-widget-two__title.title-custom.footer-widget-two__title-box a {
 }
 
 .textwidget p {
-	color: #414651;
+    color: #977474;
+}
+
+.footer-widget__newsletter-text {
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 20px;
+    color: #EAECF0!important;
+}
+
+.footer-widget__about-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 20px;
+    margin-bottom: 43px;
+    color: #EAECF0!important;
+}
+
+.footer-widget__contact-list li .content h3 {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--belco-font);
+    line-height: 26px;
+    color: #fff;
 }
 
 /* Menu */

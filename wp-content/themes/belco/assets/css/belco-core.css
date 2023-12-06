@@ -5933,6 +5933,10 @@ dl, ol, ul {
 	border-bottom: 1px solid rgba(var(--belco-black-rgb), .10);
 }
 
+.site-footer__social a {
+    color: #fff;
+}
+
 .footer-widget__about {
 	position: relative;
 	display: block;
