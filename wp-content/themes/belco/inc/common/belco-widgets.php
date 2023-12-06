@@ -32,7 +32,7 @@ function belco_widgets_init()
             'name'          => sprintf(esc_html__('Footer %1$s', 'belco'), $num),
             'id'            => 'footer-' . $num,
             'description'   => sprintf(esc_html__('Footer %1$s', 'belco'), $num),
-            'before_widget' => '<div id="%1$s" class="footer-widget__column border-right footer-widget__about footer__col-' . $num . ' mb-50 %2$s">',
+            'before_widget' => '<div id="%1$s" class="footer-widget__column footer-widget__about footer__col-' . $num . ' mb-50 %2$s">',
             'after_widget'  => '</div>',
             'before_title'  => '<h3 class="footer-widget__title menu-title">',
             'after_title'   => '</h3>',
