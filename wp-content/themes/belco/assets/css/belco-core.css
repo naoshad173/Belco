@@ -5922,6 +5922,10 @@ dl, ol, ul {
 	z-index: -1;
 }
 
+.border-right {
+    border-right: 1px solid #e0e0e0;
+}
+
 .site-footer__shape-2 img {
 	width: auto;
 }
