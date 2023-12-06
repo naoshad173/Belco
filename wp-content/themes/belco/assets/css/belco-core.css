@@ -5921,11 +5921,7 @@ dl, ol, ul {
 	opacity: .20;
 	z-index: -1;
 }
-
-.border-right:nth-child(2) {
-    border-right: 1px solid #e0e0e0;
-}
-
+ 
 .site-footer__shape-2 img {
 	width: auto;
 }
