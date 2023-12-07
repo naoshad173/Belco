@@ -689,6 +689,7 @@ function _header_footer_fields($fields)
         'choices'     => [
             'footer-style-1'   => get_template_directory_uri() . '/inc/img/footer/footer-1.png',
             'footer-style-2' => get_template_directory_uri() . '/inc/img/footer/footer-2.png',
+            'footer-style-2' => get_template_directory_uri() . '/inc/img/footer/footer-3.png',
         ],
         'default'     => 'footer-style-1',
     ];
@@ -744,6 +745,19 @@ function _header_footer_fields($fields)
         'type'     => 'switch',
         'settings' => 'footer_style_3_switch',
         'label'    => esc_html__('Footer Style 3 On/Off', 'belco'),
+        'section'  => 'footer_setting',
+        'default'  => '0',
+        'priority' => 10,
+        'choices'  => [
+            'on'  => esc_html__('Enable', 'belco'),
+            'off' => esc_html__('Disable', 'belco'),
+        ],
+    ];
+
+    $fields[] = [
+        'type'     => 'switch',
+        'settings' => 'footer_style_4_switch',
+        'label'    => esc_html__('Footer Style 4 On/Off', 'belco'),
         'section'  => 'footer_setting',
         'default'  => '0',
         'priority' => 10,
