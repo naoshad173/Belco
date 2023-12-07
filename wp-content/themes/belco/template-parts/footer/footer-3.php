@@ -1,26 +1,37 @@
 <?php
 
 /**
- * Template part for displaying footer layout one
+ * Template part for displaying footer layout two
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package belco
  */
 
+$footer_bg_img = get_theme_mod('belco_footer_bg');
 $belco_footer_logo = get_theme_mod('belco_footer_logo');
 $belco_footer_top_space = function_exists('get_field') ? get_field('belco_footer_top_space') : '0';
 $belco_copyright_center = $belco_footer_logo ? 'col-lg-4 offset-lg-4 col-md-6 text-right' : 'col-lg-12 text-center';
 $belco_footer_bg_url_from_page = function_exists('get_field') ? get_field('belco_footer_bg') : '';
 $belco_footer_bg_color_from_page = function_exists('get_field') ? get_field('belco_footer_bg_color') : '';
+$footer_bg_color = get_theme_mod('belco_footer_bg_color');
+$footer_top_space = get_theme_mod('belco_footer_top_space');
+$footer_copyright_switch = get_theme_mod('footer_copyright_switch', false);
 
+// bg image
+$bg_img = !empty($belco_footer_bg_url_from_page['url']) ? $belco_footer_bg_url_from_page['url'] : $footer_bg_img;
 
-// footer_columns
+// bg color
+$bg_color = !empty($belco_footer_bg_color_from_page) ? $belco_footer_bg_color_from_page : $footer_bg_color;
+
+// footer space
+$footer_space = !empty($belco_footer_top_space) ? $belco_footer_top_space : $footer_top_space;
+
 $footer_columns = 0;
 $footer_widgets = get_theme_mod('footer_widget_number', 4);
 
 for ($num = 1; $num <= $footer_widgets; $num++) {
-  if (is_active_sidebar('footer-' . $num)) {
+  if (is_active_sidebar('footer-2-' . $num)) {
     $footer_columns++;
   }
 }
@@ -50,37 +61,37 @@ switch ($footer_columns) {
 }
 
 ?>
-<!-- Home Light Footer -->
+<!-- Home Dark Footer -->
 <!--Site Footer Start-->
 <footer class="site-footer">
-  <?php if (is_active_sidebar('footer-1') or is_active_sidebar('footer-2') or is_active_sidebar('footer-3') or is_active_sidebar('footer-4')) : ?>
+  <?php if (is_active_sidebar('footer-2-1') or is_active_sidebar('footer-2-2') or is_active_sidebar('footer-2-3') or is_active_sidebar('footer-2-4')) : ?>
     <div class="container">
       <div class="site-footer__top">
         <div class="row">
           <?php
           if ($footer_columns < 4) {
             print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">';
-            dynamic_sidebar('footer-1');
+            dynamic_sidebar('footer-2-1');
             print '</div>';
 
             print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">';
-            dynamic_sidebar('footer-2');
+            dynamic_sidebar('footer-2-2');
             print '</div>';
 
             print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">';
-            dynamic_sidebar('footer-3');
+            dynamic_sidebar('footer-2-3');
             print '</div>';
 
             print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">';
-            dynamic_sidebar('footer-4');
+            dynamic_sidebar('footer-2-4');
             print '</div>';
           } else {
             for ($num = 1; $num <= $footer_columns; $num++) {
-              if (!is_active_sidebar('footer-' . $num)) {
+              if (!is_active_sidebar('footer-2-' . $num)) {
                 continue;
               }
               print '<div class="' . esc_attr($footer_class[$num]) . '">';
-              dynamic_sidebar('footer-' . $num);
+              dynamic_sidebar('footer-2-' . $num);
               print '</div>';
             }
           }
@@ -98,5 +109,3 @@ switch ($footer_columns) {
   </div>
 </footer>
 <!--Site Footer End-->
-</div>
-<!-- /.page-wrapper -->

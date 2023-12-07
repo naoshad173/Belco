@@ -50,10 +50,10 @@ switch ($footer_columns) {
     $footer_class[3] = 'col-xl-4 col-lg-6';
     break;
   case '4':
-    $footer_class[1] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[2] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[3] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[4] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[1] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[2] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[3] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[4] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
     break;
   default:
     $footer_class = 'col-xl-3 col-lg-3 col-md-6';
@@ -61,7 +61,7 @@ switch ($footer_columns) {
 }
 
 ?>
-
+<!-- Inner Pages Footer -->
 <!--Site Footer Start-->
 <footer class="site-footer-two site-footer-four">
   <?php if (is_active_sidebar('footer-2-1') or is_active_sidebar('footer-2-2') or is_active_sidebar('footer-2-3') or is_active_sidebar('footer-2-4')) : ?>
@@ -70,19 +70,19 @@ switch ($footer_columns) {
         <div class="row">
           <?php
           if ($footer_columns < 4) {
-            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">';
+            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">';
             dynamic_sidebar('footer-2-1');
             print '</div>';
 
-            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">';
+            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">';
             dynamic_sidebar('footer-2-2');
             print '</div>';
 
-            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">';
+            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">';
             dynamic_sidebar('footer-2-3');
             print '</div>';
 
-            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">';
+            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">';
             dynamic_sidebar('footer-2-4');
             print '</div>';
           } else {
