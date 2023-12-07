@@ -260,6 +260,45 @@ dl, ol, ul {
 .thm-btn:hover {
 	color: var(--belco-white);
 }
+.thm-btn-3 {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	-webkit-appearance: none;
+	outline: none !important;
+	background-color: var(--belco-base);
+	color: var(--belco-white);
+	font-size: 16px;
+	font-weight: 600;
+	padding: 10px 33px 10px;
+	border-radius: 5px;
+	overflow: hidden;
+	transition: all 0.5s linear;
+	z-index: 1;
+}
+
+.thm-btn-3::before {
+	transition-duration: 800ms;
+	position: absolute;
+	width: 200%;
+	height: 200%;
+	content: "";
+	top: 110%;
+	left: 50%;
+	background-color: #0D121E;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+	border-radius: 50%;
+	z-index: -1;
+}
+
+.thm-btn-3:hover:before {
+	top: 100%;
+}
+
+.thm-btn-3:hover {
+	color: #224CAF;
+}
 
 .thm-btn-two {
 	position: relative;
