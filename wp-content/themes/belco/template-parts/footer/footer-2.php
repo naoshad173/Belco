@@ -51,9 +51,9 @@ switch ($footer_columns) {
     break;
   case '4':
     $footer_class[1] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[2] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[3] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
-    $footer_class[4] = 'col-xl-4 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[2] = 'col-xl-2 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[3] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
+    $footer_class[4] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
     break;
   default:
     $footer_class = 'col-xl-3 col-lg-3 col-md-6';
@@ -74,15 +74,15 @@ switch ($footer_columns) {
             dynamic_sidebar('footer-2-1');
             print '</div>';
 
-            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">';
+            print '<div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">';
             dynamic_sidebar('footer-2-2');
             print '</div>';
 
-            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">';
+            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">';
             dynamic_sidebar('footer-2-3');
             print '</div>';
 
-            print '<div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">';
+            print '<div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">';
             dynamic_sidebar('footer-2-4');
             print '</div>';
           } else {

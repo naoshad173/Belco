@@ -56,7 +56,7 @@ switch ($footer_columns) {
     $footer_class[4] = 'col-xl-3 col-lg-6 col-md-6 wow fadeInUp';
     break;
   default:
-    $footer_class = 'col-xl-3 col-lg-3 col-md-6';
+    $footer_class = 'col-xl-3 col-lg-6 col-md-6';
     break;
 }
 

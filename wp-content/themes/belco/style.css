@@ -39,11 +39,13 @@ span.fa-solid.fa-chevron-right {
 }
 
 ul#menu-company {
-	list-style-type: none;
-	margin-top: 0px;
-	line-height: 44px;
-	transition: .3s;
-	font-size: 16px;
+    color: #fff;
+    display: block;
+    margin-top: 0px;
+    line-height: 44px;
+    transition: .3s;
+    font-size: 16px;
+    padding: 0;
 }
 
 ul#menu-company a:hover {

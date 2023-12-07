@@ -8354,7 +8354,7 @@ dl, ol, ul {
 	line-height: 26px;
 	margin-top: 18px;
 	margin-bottom: 38px;
-	color: var(--belco-white);
+	color: var(--belco-white)!important;
 }
 
 .site-footer-two__social {
@@ -8380,9 +8380,11 @@ dl, ol, ul {
 }
 
 .footer-widget-two__title-box {
-	position: relative;
-	display: inline-block;
-	margin-bottom: 15px;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 15px;
+    color: #fff;
+    font-size: 14px;
 }
 
 .footer-widget-two__title-box::before {
@@ -8508,9 +8510,9 @@ dl, ol, ul {
 }
 
 .footer-widget-two__work-time-text {
-	font-size: 14px;
-	line-height: 21px;
-	color: #D0D5DD;
+    font-size: 14px;
+    line-height: 21px;
+    color: #D0D5DD!important;
 }
 
 .footer-widget-two__portfolio {
