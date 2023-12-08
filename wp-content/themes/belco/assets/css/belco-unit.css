@@ -1650,6 +1650,7 @@ h3.footer-widget-two__title.title-custom.footer-widget-two__title-box a {
     line-height: 28px;
     margin-bottom: 20px;
     color: #EAECF0!important;
+    margin-right: -17px;
 }
 
 .footer-widget__about-text {
@@ -1666,7 +1667,7 @@ h3.footer-widget-two__title.title-custom.footer-widget-two__title-box a {
     font-weight: 500;
     font-family: var(--belco-font);
     line-height: 26px;
-    color: #fff;
+    color: #0D121E;
 }
 
 /* Menu */

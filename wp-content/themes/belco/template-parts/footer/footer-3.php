@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Template part for displaying footer layout two
+ * Template part for displaying footer layout three
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
@@ -31,7 +31,7 @@ $footer_columns = 0;
 $footer_widgets = get_theme_mod('footer_widget_number', 4);
 
 for ($num = 1; $num <= $footer_widgets; $num++) {
-  if (is_active_sidebar('footer-2-' . $num)) {
+  if (is_active_sidebar('footer-3-' . $num)) {
     $footer_columns++;
   }
 }
@@ -87,11 +87,11 @@ switch ($footer_columns) {
             print '</div>';
           } else {
             for ($num = 1; $num <= $footer_columns; $num++) {
-              if (!is_active_sidebar('footer-2-' . $num)) {
+              if (!is_active_sidebar('footer-3-' . $num)) {
                 continue;
               }
               print '<div class="' . esc_attr($footer_class[$num]) . '">';
-              dynamic_sidebar('footer-2-' . $num);
+              dynamic_sidebar('footer-3-' . $num);
               print '</div>';
             }
           }

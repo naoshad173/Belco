@@ -6111,8 +6111,9 @@ dl, ol, ul {
 }
 
 .footer-widget__contact-list li .content p {
-	font-size: 16px;
-	line-height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #414651;
 }
 
 .footer-widget__contact-list li .content p a {
@@ -8441,6 +8442,14 @@ dl, ol, ul {
 	color: #D0D5DD;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
+}
+
+p.footer-widget__about-text {
+    color: #414651!important;
+}
+
+p.footer-widget__newsletter-text {
+    color: #414651!important;
 }
 
 .footer-widget-two__company-list li a:hover {
