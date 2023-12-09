@@ -63,10 +63,10 @@ switch ($footer_columns) {
 ?>
 <!-- Home Dark Footer -->
 <!--Site Footer Start-->
-<footer class="site-footer">
+<footer class="site-footer" id="site-footer-dark">
   <?php if (is_active_sidebar('footer-2-1') or is_active_sidebar('footer-2-2') or is_active_sidebar('footer-2-3') or is_active_sidebar('footer-2-4')) : ?>
-    <div class="container">
-      <div class="site-footer__top">
+    <div class=" container">
+      <div class="site-footer__top" id="site-footer__top-dark">
         <div class="row">
           <?php
           if ($footer_columns < 4) {

@@ -962,7 +962,7 @@ dl, ol, ul {
 	position: relative;
 	font-size: 15px;
 	line-height: 30px;
-	color: var(--belco-gray);
+	color: var(--belco-gray)!important;
 	font-weight: 500;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -6098,9 +6098,10 @@ dl, ol, ul {
 }
 
 .footer-widget__contact-list li .content {
-	position: relative;
-	display: block;
-	margin-left: 12px;
+    position: relative;
+    display: block;
+    margin-left: 12px;
+    margin-bottom: 1px;
 }
 
 .footer-widget__contact-list li .content h3 {
@@ -6117,21 +6118,25 @@ dl, ol, ul {
 }
 
 .footer-widget__contact-list li .content p a {
-	color: var(--belco-gray);
-	-webkit-transition: all 500ms ease;
-	transition: all 500ms ease;
+    color: var(--belco-gray)!important;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
 }
 
 .footer-widget__contact-list li .content p a:hover {
 	color: var(--belco-base);
 }
 
+.footer-widget__contact-two .footer-widget__contact-list li .content p a {
+    color: #EAECF0!important;
+}
+ 
 .footer-widget__newsletter {
 	position: relative;
 	display: block;
 }
 
-.footer-widget__newsletter:before {
+.footer-widget__newsletter .news-border-1::before {
 	content: "";
 	position: absolute;
 	top: -8px;
@@ -6159,20 +6164,21 @@ dl, ol, ul {
 }
 
 .footer-widget__newsletter-form-input-box input[type="email"] {
-	height: 56px;
-	width: 100%;
-	background-color: transparent;
-	outline: none;
-	font-size: 14px;
-	color: #667085;
-	font-weight: 400;
-	border: none;
-	padding-right: 70px;
-	padding-left: 20px;
-	border-radius: 6px;
-	border: 1px solid rgba(34, 40, 49, 0.20);
+    height: 56px;
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    font-size: 14px;
+    color: #667085;
+    font-weight: 400;
+    border: none;
+    padding-right: 70px;
+    padding-left: 20px; 
+    border: 1px solid #252A34;
 }
-
+.input-border-2 input[type="email"] {
+	border: 1px solid rgba(34, 40, 49, 0.20)!important;
+}
 .footer-widget__newsletter-btn {
 	position: absolute;
 	top: 0;
@@ -8436,14 +8442,19 @@ dl, ol, ul {
 }
 
 .footer-widget-two__company-list li a {
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 24px;
-	color: #D0D5DD;
-	-webkit-transition: all 500ms ease;
-	transition: all 500ms ease;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #D0D5DD!important;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
 }
-
+.footer-widget-two__company-list li a:hover { 
+	color: #FF5100!important;
+}
+.ml-coninfo {
+    margin-left: 30px;
+}
 p.footer-widget__about-text {
     color: #414651!important;
 }
@@ -8493,13 +8504,17 @@ p.footer-widget__newsletter-text {
 	font-size: 14px;
 	line-height: 24px;
 	color: #D0D5DD;
-	margin-left: 10px;
+	margin-left: 10px; 
+}
+
+.footer-widget-two__contact-list li a:hover { 
+	color: #FF5100!important; 
 }
 
 .footer-widget-two__contact-list li p a {
-	color: #D0D5DD;
-	-webkit-transition: all 500ms ease;
-	transition: all 500ms ease;
+    color: #D0D5DD!important;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
 }
 
 .footer-widget-two__contact-list li p a:hover {
