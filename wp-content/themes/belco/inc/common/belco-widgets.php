@@ -18,7 +18,7 @@ function belco_widgets_init()
     register_sidebar([
         'name'          => esc_html__('Blog Sidebar', 'belco'),
         'id'            => 'blog-sidebar',
-        'before_widget' => '<div id="%1$s" class="sidebar__category-list sidebar__tag sidebar__gallery b-60 %2$s">',
+        'before_widget' => '<div id="%1$s" class="sidebar__single sidebar__search sidebar__category-list sidebar__category sidebar__post sidebar__tag sidebar__gallery b-60 %2$s">',
         'after_widget'  => '</div>',
         'before_title'  => '<div class="sidebar__title-box"><h3 class="sidebar__title">',
         'after_title'   => '</h3></div>',

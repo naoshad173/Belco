@@ -1238,7 +1238,7 @@ get_header();
             </div>
             <!--Team One SIngle End-->
          </div>
-         <div class="team-one__btn-box">
+         <div class="team-one__btn-box btn-two-dark">
             <a href="team.html" class="team-one__btn thm-btn">View All<span class="fa-light fa-arrow-right-long"></span></a>
          </div>
       </div>

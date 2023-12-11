@@ -281,7 +281,7 @@ if (!function_exists('belco_search_filter_form')) {
 
         $form = sprintf(
             '<div class="sidebar__single sidebar__search"><form class="sidebar__search-form" action="%s" method="get">
-      	<input type="text" value="%s" required name="s" placeholder="Enter Your Keyword">
+      	<input type="text" value="%s" required name="s" placeholder="Enter Keyword">
       	<button type="submit"> <i class="fa-light fa-magnifying-glass"></i> </button>
 		</form></div>',
             esc_url(home_url('/')),
