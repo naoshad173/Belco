@@ -11980,7 +11980,7 @@ p.footer-widget__newsletter-text {
 	line-height: 48px;
 	border-radius: 4px;
 	display: inline-block;
-	color: #475467;
+	color: #475467!important;
 	background-color: transparent;
 	border: 1px solid #EAECF0;
 	font-weight: 400;
@@ -11991,7 +11991,7 @@ p.footer-widget__newsletter-text {
 
 .portfolio-page__pagination .pg-pagination li a:hover {
 	background-color: var(--belco-base);
-	color: var(--belco-white);
+	color: var(--belco-white)!important;
 	border: 1px solid var(--belco-base);
 }
 

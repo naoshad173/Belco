@@ -62,7 +62,7 @@ function belco_widgets_init()
                 'name'          => sprintf(esc_html__('Footer Style 3 : %1$s', 'belco'), $num),
                 'id'            => 'footer-3-' . $num,
                 'description'   => sprintf(esc_html__('Footer Style 3 : %1$s', 'belco'), $num),
-                'before_widget' => '<div id="%1$s" class="footer__widget footer-widget__column footer-widget__about-text-two footer-widget__company-two footer-widget__newsletter-two footer-widget__contact-two footer__widget-3 footer-col-3-' . $num . ' mb-50 %2$s">',
+                'before_widget' => '<div id="%1$s" class="archive-unit footer__widget footer-widget__column footer-widget__about-text-two footer-widget__company-two footer-widget__newsletter-two footer-widget__contact-two footer__widget-3 footer-col-3-' . $num . ' mb-50 %2$s">',
                 'after_widget'  => '</div>',
                 'before_title'  => '<div class="footer-widget__title-box">',
                 'after_title'   => '</div>',

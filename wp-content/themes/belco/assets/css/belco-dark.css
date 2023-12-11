@@ -1421,7 +1421,7 @@ p.why-choose-one__text-two {
     height: 36px;
     font-size: 18px;
     border-radius: 50%;
-    color: var(--belco-black)!important;
+    color: var(--belco-black) !important;
     border: 1px solid rgba(255, 255, 255, 0.50);
     background-color: rgba(255, 255, 255, 0.20);
     backdrop-filter: blur(10px);
@@ -1446,15 +1446,15 @@ p.why-choose-one__text-two {
 }
 
 .team-one__btn {
-    border: 1px solid var(--belco-black)!important;
-    background-color: transparent!important;
-    color: var(--belco-black)!important;
+    border: 1px solid var(--belco-black) !important;
+    background-color: transparent !important;
+    color: var(--belco-black) !important;
 }
 
-.btn-two-dark .thm-btn:hover{
-    border: 1px solid var(--belco-black)!important;
-    background-color: transparent!important;
-    color: var(--belco-white)!important;
+.btn-two-dark .thm-btn:hover {
+    border: 1px solid var(--belco-black) !important;
+    background-color: transparent !important;
+    color: var(--belco-white) !important;
 }
 
 .team-one__btn span {
@@ -2123,7 +2123,7 @@ select#select-dark {
 }
 
 .footer-widget__about-text-two ul.footer-widget__company-list li a {
-    color: #fff;
+    color: #fff !important;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -2134,6 +2134,14 @@ select#select-dark {
 
 .footer-widget__about-text-two p.footer-widget__newsletter-text {
     color: #EAECF0 !important;
+}
+
+.footer-widget__company-two ul li a {
+    color: #fff !important;
+}
+
+.archive-unit ul li a {
+    color: #fff !important;
 }
 
 .footer-widget__about-text-two .content h3 {
