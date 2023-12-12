@@ -342,7 +342,7 @@ add_action('belco_footer_style', 'belco_check_footer', 10);
 function belco_check_footer()
 {
     $belco_footer_style = function_exists('get_field') ? get_field('footer_style') : NULL;
-    $belco_default_footer_style = get_theme_mod('choose_default_footer', 'footer-style-1');
+    $belco_default_footer_style = get_theme_mod('choose_default_footer', 'footer-style-2');
 
     if ($belco_footer_style == 'footer-style-1') {
         get_template_part('template-parts/footer/footer-1');
