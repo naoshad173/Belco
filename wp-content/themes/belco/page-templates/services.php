@@ -19,7 +19,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Business Audit</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Audit</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-light fa-briefcase"></span>
                   </div>
@@ -28,7 +28,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>
@@ -36,7 +36,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Business Planning</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Planning</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-light fa-hand-holding-dollar"></span>
                   </div>
@@ -45,7 +45,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>
@@ -53,7 +53,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Financial Advices</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Financial Advices</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-light fa-bells"></span>
                   </div>
@@ -62,7 +62,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>
@@ -70,7 +70,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Tax Strategy</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Tax Strategy</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-light fa-memo-pad"></span>
                   </div>
@@ -79,7 +79,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>
@@ -87,7 +87,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Insurance Strategy</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Insurance Strategy</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-light fa-house-day"></span>
                   </div>
@@ -96,7 +96,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>
@@ -104,7 +104,7 @@ get_header();
             <!--Services Page Single Start-->
             <div class="col-xl-4 col-lg-6 col-md-6">
                <div class="services-page__single">
-                  <h3 class="services-page__title"><a href="service-details.html">Start Ups</a></h3>
+                  <h3 class="services-page__title"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Start Ups</a></h3>
                   <div class="services-page__icon">
                      <span class="fa-sharp fa-light fa-rocket"></span>
                   </div>
@@ -113,7 +113,7 @@ get_header();
                      dolore magna aliqua.
                   </p>
                   <div class="services-page__btn">
-                     <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                   </div>
                </div>
             </div>

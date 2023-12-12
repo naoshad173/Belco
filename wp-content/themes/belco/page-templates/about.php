@@ -67,7 +67,7 @@ get_header();
                      </li>
                   </ul>
                   <div class="about-two__btn-box">
-                     <a href="about.html" class="about-two__btn thm-btn-two">Learn About Us</a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/services/" class="about-two__btn thm-btn-two">Learn About Us</a>
                   </div>
                </div>
             </div>
@@ -208,14 +208,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-1.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Aiyan Sakla</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Aiyan Sakla</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fab fa-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -229,14 +229,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-2.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Susan Sarandom</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Susan Sarandom</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fab fa-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -250,14 +250,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-3.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Jacika Brown</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Jacika Brown</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fab fa-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -271,14 +271,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-4.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Alisha Martin</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Alisha Martin</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fab fa-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -286,7 +286,7 @@ get_header();
             <!--Team One SIngle End-->
          </div>
          <div class="team-one__btn-box">
-            <a href="team.html" class="team-one__btn thm-btn">View All<span class="fa-light fa-arrow-right-long"></span></a>
+            <a href="https://xqodex.xyz/wpbelco/belco/team/" class="team-one__btn thm-btn">View All<span class="fa-light fa-arrow-right-long"></span></a>
          </div>
       </div>
    </section>

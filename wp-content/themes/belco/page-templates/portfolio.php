@@ -49,7 +49,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Our Business Growth</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Business Growth</a></h3>
                   </div>
                </div>
             </div>
@@ -62,7 +62,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Women’s Empowerment</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Women’s Empowerment</a></h3>
                   </div>
                </div>
             </div>
@@ -75,7 +75,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Our Business Audit</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Business Audit</a></h3>
                   </div>
                </div>
             </div>
@@ -88,7 +88,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Our Business Planning</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Business Planning</a></h3>
                   </div>
                </div>
             </div>
@@ -101,7 +101,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Our Financial Advices</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Financial Advices</a></h3>
                   </div>
                </div>
             </div>
@@ -114,7 +114,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Our Tax Strategy</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Tax Strategy</a></h3>
                   </div>
                </div>
             </div>
@@ -127,7 +127,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Solutions Your Problem</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Solutions Your Problem</a></h3>
                   </div>
                </div>
             </div>
@@ -140,7 +140,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Identifying Problems</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Identifying Problems</a></h3>
                   </div>
                </div>
             </div>
@@ -153,7 +153,7 @@ get_header();
                   </div>
                   <div class="portfolio-three__content">
                      <p class="portfolio-three__sub-title">Business Audit</p>
-                     <h3 class="portfolio-three__title"><a href="portfolio-details.html">Research Your Problem</a></h3>
+                     <h3 class="portfolio-three__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Research Your Problem</a></h3>
                   </div>
                </div>
             </div>
@@ -161,13 +161,13 @@ get_header();
          <div class="portfolio-page__pagination">
             <ul class="pg-pagination list-unstyled">
                <li class="prev">
-                  <a href="portfolio-details.html" aria-label="Prev"><i class="fa fa-angle-left"></i></a>
+                  <a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/" aria-label="Prev"><i class="fa fa-angle-left"></i></a>
                </li>
-               <li class="count"><a href="portfolio-details.html">1</a></li>
-               <li class="count"><a href="portfolio-details.html">2</a></li>
-               <li class="count"><a href="portfolio-details.html">3</a></li>
+               <li class="count"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">1</a></li>
+               <li class="count"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">2</a></li>
+               <li class="count"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">3</a></li>
                <li class="next">
-                  <a href="portfolio-details.html" aria-label="Next"><i class="fa fa-angle-right"></i></a>
+                  <a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/" aria-label="Next"><i class="fa fa-angle-right"></i></a>
                </li>
             </ul>
          </div>
@@ -185,7 +185,7 @@ get_header();
                make your Business better
             </h3>
             <div class="cta-four__btn-box">
-               <a href="about.html" class="cta-four__btn thm-btn">Let's Together Quotes</a>
+               <a href="https://xqodex.xyz/wpbelco/belco/services/" class="cta-four__btn thm-btn">Let's Together Quotes</a>
             </div>
          </div>
       </div>

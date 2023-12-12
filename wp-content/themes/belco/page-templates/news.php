@@ -28,7 +28,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">We would love to share a similar experience</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">We would love to share a similar experience</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -61,7 +61,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">What activities are done in the development?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What activities are done in the development?</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -94,7 +94,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">What is the most important thing in a designing?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What is the most important thing in a designing?</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -127,7 +127,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">We would love to share a similar experience</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">We would love to share a similar experience</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -160,7 +160,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">What activities are done in the development?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What activities are done in the development?</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -193,7 +193,7 @@ get_header();
                      <div class="news-one__content-top">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title">
-                           <a href="news-details.html">What is the most important thing in a designing?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What is the most important thing in a designing?</a>
                         </h3>
                         <p class="news-one__text">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>

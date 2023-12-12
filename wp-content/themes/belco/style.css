@@ -30,8 +30,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
 }
 
 .page-header__inner span {
-    color: #fff;
-    margin: 0px 2px;
+	color: #fff;
+	margin: 0px 2px;
 }
 
 span.fa-solid.fa-chevron-right {
@@ -39,13 +39,13 @@ span.fa-solid.fa-chevron-right {
 }
 
 ul#menu-company {
-    color: #fff;
-    display: block;
-    margin-top: 0px;
-    line-height: 44px;
-    transition: .3s;
-    font-size: 16px;
-    padding: 0;
+	color: #fff;
+	display: block;
+	margin-top: 0px;
+	line-height: 44px;
+	transition: .3s;
+	font-size: 16px;
+	padding: 0;
 }
 
 ul#menu-company a:hover {
@@ -87,4 +87,3 @@ h3.title-custom {
 	display: block;
 	margin-left: 0px;
 }
-

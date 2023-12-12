@@ -22,22 +22,22 @@ get_header();
                   <div class="services-details__services-box">
                      <ul class="services-details__services-list list-unstyled">
                         <li class="active">
-                           <a href="services.html">Business Audit<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Audit<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                         <li>
-                           <a href="services.html">Business Planning<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Planning<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                         <li>
-                           <a href="services.html">Financial Advices<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Financial Advices<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                         <li>
-                           <a href="services.html">Tax Strategy<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Tax Strategy<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                         <li>
-                           <a href="services.html">Insurance Strategy<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Insurance Strategy<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                         <li>
-                           <a href="services.html">Start Ups<span class="fa-light fa-arrow-right-long"></span></a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Start Ups<span class="fa-light fa-arrow-right-long"></span></a>
                         </li>
                      </ul>
                   </div>

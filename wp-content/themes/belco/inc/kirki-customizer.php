@@ -840,36 +840,40 @@ add_filter('kirki/fields', 'belco_color_fields');
 // 404
 function belco_404_fields($fields)
 {
-    // 404 settings
-    $fields[] = [
-        'type'        => 'image',
-        'settings'    => 'belco_404_bg',
-        'label'       => esc_html__('404 Image.', 'belco'),
-        'description' => esc_html__('404 Image.', 'belco'),
-        'section'     => '404_page',
-    ];
+    // 404 settings 
     $fields[] = [
         'type'     => 'text',
         'settings' => 'belco_error_title',
-        'label'    => esc_html__('Not Found Title', 'belco'),
+        'label'    => esc_html__('404', 'belco'),
         'section'  => '404_page',
-        'default'  => esc_html__('Page not found', 'belco'),
+        'default'  => esc_html__('404', 'belco'),
         'priority' => 10,
     ];
+
+    $fields[] = [
+        'type'     => 'text',
+        'settings' => 'belco_error_subtitle',
+        'label'    => esc_html__('Not Found Sub Title', 'belco'),
+        'section'  => '404_page',
+        'default'  => esc_html__("Sorry we can't find that page!", 'belco'),
+        'priority' => 10,
+    ];
+
+
     $fields[] = [
         'type'     => 'textarea',
         'settings' => 'belco_error_desc',
         'label'    => esc_html__('404 Description Text', 'belco'),
         'section'  => '404_page',
-        'default'  => esc_html__('Oops! The page you are looking for does not exist. It might have been moved or deleted', 'belco'),
+        'default'  => esc_html__('The page you are looking for was never existed.', 'belco'),
         'priority' => 10,
     ];
     $fields[] = [
         'type'     => 'text',
         'settings' => 'belco_error_link_text',
-        'label'    => esc_html__('404 Link Text', 'belco'),
+        'label'    => esc_html__('404 Button Text', 'belco'),
         'section'  => '404_page',
-        'default'  => esc_html__('Back To Home', 'belco'),
+        'default'  => esc_html__('Back to home', 'belco'),
         'priority' => 10,
     ];
     return $fields;

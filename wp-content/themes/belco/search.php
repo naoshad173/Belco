@@ -30,7 +30,7 @@ $blog_column = is_active_sidebar('blog-sidebar') ? 8 : 12;
 							get_template_part('template-parts/content', 'search');
 						endwhile;
 						?>
-						<div class="basic-pagination basic-pagination-2 mb-40">
+						<div class="tp-pagination mb-40 mt-40">
 							<?php belco_pagination('<i class="fas fa-angle-double-left"></i>', '<i class="fas fa-angle-double-right"></i>', '', ['class' => '']); ?>
 						</div>
 					<?php

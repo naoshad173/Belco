@@ -18,7 +18,7 @@ $blog_column = is_active_sidebar('blog-sidebar') ? 8 : 12;
 	<div class="container container-box">
 		<div class="row">
 			<div class="col-lg-<?php print esc_attr($blog_column); ?> blog-post-items">
-				<div class="postbox__wrapper pr-20">
+				<div class="news-one__single postbox__wrapper pr-20">
 					<?php if (have_posts()) : ?>
 						<header class="page-header d-none">
 							<?php
@@ -40,7 +40,7 @@ $blog_column = is_active_sidebar('blog-sidebar') ? 8 : 12;
 						endwhile;
 						?>
 
-						<div class="basic-pagination basic-pagination-2 mb-40">
+						<div class="tp-pagination basic-pagination-2 mb-40">
 							<?php belco_pagination('<i class="fas fa-angle-double-left"></i>', '<i class="fas fa-angle-double-right"></i>', '', ['class' => '']); ?>
 						</div>
 					<?php

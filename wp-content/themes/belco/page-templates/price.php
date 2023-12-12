@@ -76,7 +76,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -129,7 +129,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -182,7 +182,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -244,7 +244,7 @@ get_header();
                                     </ul>
                                  </div>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -297,7 +297,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -350,7 +350,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn">Buy Now</a>
                                  </div>
                               </div>
                            </div>

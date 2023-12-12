@@ -35,7 +35,7 @@ get_header();
                   </p>
                   <div class="main-slider__btn-and-video-box">
                      <div class="main-slider__btn-box">
-                        <a href="contact.html" class="thm-btn main-slider__btn">Get Consulting</a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/contact/" class="thm-btn main-slider__btn">Get Consulting</a>
                      </div>
                      <div class="main-slider__video-link">
                         <a href="https://www.youtube.com/watch?v=45IjHX17EeQ" class="video-popup">
@@ -70,7 +70,7 @@ get_header();
                   </p>
                   <div class="main-slider__btn-and-video-box">
                      <div class="main-slider__btn-box">
-                        <a href="contact.html" class="thm-btn main-slider__btn">Get Consulting</a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/contact/" class="thm-btn main-slider__btn">Get Consulting</a>
                      </div>
                      <div class="main-slider__video-link">
                         <a href="https://www.youtube.com/watch?v=45IjHX17EeQ" class="video-popup">
@@ -106,7 +106,7 @@ get_header();
                   </p>
                   <div class="main-slider__btn-and-video-box">
                      <div class="main-slider__btn-box">
-                        <a href="contact.html" class="thm-btn main-slider__btn">Get Consulting</a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/contact/" class="thm-btn main-slider__btn">Get Consulting</a>
                      </div>
                      <div class="main-slider__video-link">
                         <a href="https://www.youtube.com/watch?v=45IjHX17EeQ" class="video-popup">
@@ -139,7 +139,7 @@ get_header();
                            <div class="feature-one__icon-two">
                               <span class="fa-light fa-handshake"></span>
                            </div>
-                           <h3 class="feature-one__title-two"><a href="service-details.html">Business Advice</a></h3>
+                           <h3 class="feature-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Advice</a></h3>
                            <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
@@ -151,7 +151,7 @@ get_header();
                            <div class="feature-one__icon-two">
                               <span class="fa-light fa-chart-mixed"></span>
                            </div>
-                           <h3 class="feature-one__title-two"><a href="service-details.html">Financial Advice</a></h3>
+                           <h3 class="feature-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Financial Advice</a></h3>
                            <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
@@ -163,7 +163,7 @@ get_header();
                            <div class="feature-one__icon-two">
                               <span class="fa-light fa-users"></span>
                            </div>
-                           <h3 class="feature-one__title-two"><a href="service-details.html">Risk Management</a></h3>
+                           <h3 class="feature-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Risk Management</a></h3>
                            <p class="feature-one__text-two">We make the over insurance quoting purchasing.</p>
                         </div>
                      </div>
@@ -243,7 +243,7 @@ get_header();
                      </li>
                   </ul>
                   <div class="about-one__btn-box">
-                     <a href="about.html" class="about-one__btn thm-btn">Learn More</a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/services/" class="about-one__btn thm-btn">Learn More</a>
                   </div>
                </div>
             </div>
@@ -279,12 +279,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Business Audit</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Business Audit</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -304,12 +304,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Tax Strategy</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Tax Strategy</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -329,12 +329,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Financial Advices</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Financial Advices</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -354,12 +354,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Insurance Strategy</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Insurance Strategy</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -379,12 +379,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Start Ups</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Start Ups</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -404,12 +404,12 @@ get_header();
                      </div>
                   </div>
                   <div class="services-one__content-two">
-                     <h3 class="services-one__title-two"><a href="service-details.html">Manage Investment</a></h3>
+                     <h3 class="services-one__title-two"><a href="https://xqodex.xyz/wpbelco/belco/service-details/">Manage Investment</a></h3>
                      <p class="services-one__text-two">
                         Lorem Ipsum is simply dummy text of the printing industry. The industry's standard dummy
                      </p>
                      <div class="services-one__read-more-two">
-                        <a href="service-details.html">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/service-details/">Learn More<span class="fa-light fa-arrow-right-long"></span></a>
                      </div>
                   </div>
                </div>
@@ -447,7 +447,7 @@ get_header();
                </p>
             </div>
             <div class="cta-one__btn-box">
-               <a href="about.html" class="cta-one__btn cta-one__btn_cutom thm-btn cta-drop-shadow-btn">Let's Together Quotes</a>
+               <a href="https://xqodex.xyz/wpbelco/belco/services/" class="cta-one__btn cta-one__btn_cutom thm-btn cta-drop-shadow-btn">Let's Together Quotes</a>
             </div>
          </div>
       </div>
@@ -507,7 +507,7 @@ get_header();
                      </li>
                   </ul>
                   <div class="why-choose-one__btn-box">
-                     <a href="contact.html" class="why-choose-one__btn thm-btn-3">Contact Us</a>
+                     <a href="https://xqodex.xyz/wpbelco/belco/contact/" class="why-choose-one__btn thm-btn-3">Contact Us</a>
                   </div>
                </div>
             </div>
@@ -538,7 +538,7 @@ get_header();
                      </div>
                      <div class="portfolio-one__content">
                         <p class="portfolio-one__sub-title">Business Audit</p>
-                        <h3 class="portfolio-one__title"><a href="portfolio-details.html">Printing And Design</a></h3>
+                        <h3 class="portfolio-one__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Printing And Design</a></h3>
                      </div>
                      <div class="portfolio-one__arrow">
                         <a href="<?php echo get_template_directory_uri(); ?>/assets/images/project/portfolio-1-1.jpg" class="img-popup"><span class="fa-light fa-arrow-right-long"></span></a>
@@ -556,7 +556,7 @@ get_header();
                      </div>
                      <div class="portfolio-one__content">
                         <p class="portfolio-one__sub-title">Business Audit</p>
-                        <h3 class="portfolio-one__title"><a href="portfolio-details.html">Our Business Grows</a></h3>
+                        <h3 class="portfolio-one__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Our Business Grows</a></h3>
                      </div>
                      <div class="portfolio-one__arrow">
                         <a href="<?php echo get_template_directory_uri(); ?>/assets/images/project/portfolio-1-2.jpg" class="img-popup"><span class="fa-light fa-arrow-right-long"></span></a>
@@ -574,7 +574,7 @@ get_header();
                      </div>
                      <div class="portfolio-one__content">
                         <p class="portfolio-one__sub-title">Business Audit</p>
-                        <h3 class="portfolio-one__title"><a href="portfolio-details.html">Industry's Standard</a></h3>
+                        <h3 class="portfolio-one__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Industry's Standard</a></h3>
                      </div>
                      <div class="portfolio-one__arrow">
                         <a href="<?php echo get_template_directory_uri(); ?>/assets/images/project/portfolio-1-3.jpg" class="img-popup"><span class="fa-light fa-arrow-right-long"></span></a>
@@ -592,7 +592,7 @@ get_header();
                      </div>
                      <div class="portfolio-one__content">
                         <p class="portfolio-one__sub-title">Business Audit</p>
-                        <h3 class="portfolio-one__title"><a href="portfolio-details.html">Business Consulting</a></h3>
+                        <h3 class="portfolio-one__title"><a href="https://xqodex.xyz/wpbelco/belco/portfolio-details/">Business Consulting</a></h3>
                      </div>
                      <div class="portfolio-one__arrow">
                         <a href="<?php echo get_template_directory_uri(); ?>/assets/images/project/portfolio-1-4.jpg" class="img-popup"><span class="fa-light fa-arrow-right-long"></span></a>
@@ -603,7 +603,7 @@ get_header();
             <!--Portfolio One Single End-->
          </div>
          <div class="portfolio-one__btn-box">
-            <a href="portfolio.html" class="portfolio-one__btn thm-btn">See All Project</a>
+            <a href="https://xqodex.xyz/wpbelco/belco/portfolio/" class="portfolio-one__btn thm-btn">See All Project</a>
          </div>
       </div>
    </section>
@@ -728,7 +728,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -781,7 +781,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -834,7 +834,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -896,7 +896,7 @@ get_header();
                                     </ul>
                                  </div>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -949,7 +949,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -1002,7 +1002,7 @@ get_header();
                                     </li>
                                  </ul>
                                  <div class="pricing-one__btn-two-box">
-                                    <a href="price.html" class="thm-btn pricing-one__btn-two">Buy Now</a>
+                                    <a href="https://xqodex.xyz/wpbelco/belco/price/" class="thm-btn pricing-one__btn-two">Buy Now</a>
                                  </div>
                               </div>
                            </div>
@@ -1161,14 +1161,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-1.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Aiyan Sakla</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Aiyan Sakla</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fa-brands fa-x-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fa-brands fa-x-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -1182,14 +1182,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-2.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Susan Sarandom</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Susan Sarandom</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fa-brands fa-x-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fa-brands fa-x-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -1203,14 +1203,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-3.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Jacika Brown</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Jacika Brown</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fa-brands fa-x-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fa-brands fa-x-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -1224,14 +1224,14 @@ get_header();
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/team/team-1-4.jpg" alt="" />
                      </div>
                      <div class="team-one__content">
-                        <h3 class="team-one__name"><a href="team-details.html">Alisha Martin</a></h3>
+                        <h3 class="team-one__name"><a href="https://xqodex.xyz/wpbelco/belco/team-details-2/">Alisha Martin</a></h3>
                         <p class="team-one__sub-title">Founder and CEO</p>
                      </div>
                      <div class="team-one__social">
-                        <a href="team-details.html"><span class="fab fa-facebook"></span></a>
-                        <a href="team-details.html"><span class="fa-brands fa-x-twitter"></span></a>
-                        <a href="team-details.html"><span class="fab fa-instagram"></span></a>
-                        <a href="team-details.html"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-facebook"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fa-brands fa-x-twitter"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-instagram"></span></a>
+                        <a href="https://xqodex.xyz/wpbelco/belco/team-details-2/"><span class="fab fa-linkedin"></span></a>
                      </div>
                   </div>
                </div>
@@ -1239,7 +1239,7 @@ get_header();
             <!--Team One SIngle End-->
          </div>
          <div class="team-one__btn-box btn-two-dark">
-            <a href="team.html" class="team-one__btn thm-btn">View All<span class="fa-light fa-arrow-right-long"></span></a>
+            <a href="https://xqodex.xyz/wpbelco/belco/team/" class="team-one__btn thm-btn">View All<span class="fa-light fa-arrow-right-long"></span></a>
          </div>
       </div>
    </section>
@@ -1376,7 +1376,7 @@ get_header();
                      <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title-two">
-                           <a href="news-details.html">We would love to share a similar experience</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">We would love to share a similar experience</a>
                         </h3>
                         <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -1409,7 +1409,7 @@ get_header();
                      <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title-two">
-                           <a href="news-details.html">What activities are done in the development?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What activities are done in the development?</a>
                         </h3>
                         <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>
@@ -1442,7 +1442,7 @@ get_header();
                      <div class="news-one__content-top-two">
                         <p class="news-one__sub-title">INBOUND MARketing</p>
                         <h3 class="news-one__title-two">
-                           <a href="news-details.html">What is the most important thing in a designing?</a>
+                           <a href="https://xqodex.xyz/wpbelco/belco/we-would-love-to-share-a-similar-experience-2-5/">What is the most important thing in a designing?</a>
                         </h3>
                         <p class="news-one__text-two">Lorem Ipsum is simply dummy text of the printing and typesetting industry...</p>
                      </div>

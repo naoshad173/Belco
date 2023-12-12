@@ -6164,7 +6164,7 @@ dl, ol, ul {
 .footer-widget__newsletter .footer-widget__title-box {
 	position: relative;
 	display: block;
-	margin-bottom: 24px;
+	margin-top: 24px;
 }
 
 .footer-widget__newsletter-text {

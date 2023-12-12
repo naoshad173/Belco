@@ -142,8 +142,8 @@ div.latest-comments>ul {
 }
 
 .tp-blog-area dl, .tp-blog-area ol, .tp-blog-area ul {
-	margin-top: 0;
-	margin-bottom: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
 
 .postbox__details ol li, .postbox__details ul li {
@@ -1792,9 +1792,9 @@ h2.wp-block-heading {
 }
 
 .footer-widget__column ul li a {
-	-webkit-transition: all 500ms ease !important;
-	transition: all 500ms ease !important;
-	color: #414651 !important;
+    -webkit-transition: all 500ms ease !important;
+    transition: all 500ms ease !important;
+    color: #7c818c!important;
 }
 
 .footer-widget__column ul li a:hover {
