@@ -39,32 +39,32 @@ function belco_widgets_init()
         ]);
     }
 
-    //  Inner Pages Footer 
+    //  Home Dark Footer 
     if ($footer_style_2_switch) {
         for ($num = 1; $num <= $footer_widgets; $num++) {
-
             register_sidebar([
                 'name'          => sprintf(esc_html__('Footer Style 2 : %1$s', 'belco'), $num),
-                'id'            => 'footer-2-' . $num,
+                'id'            => 'footer-3-' . $num,
                 'description'   => sprintf(esc_html__('Footer Style 2 : %1$s', 'belco'), $num),
-                'before_widget' => '<div id="%1$s" class="menu-custom footer-margin-css footer-widget-two__column ul li a footer-widget-two__about footer-widget-two__portfolio footer-widget-two__company footer-widget-two__contact footer-col-2-' . $num . 'mb-50 %2$s">',
+                'before_widget' => '<div id="%1$s" class="archive-unit footer__widget footer-widget__column footer-widget__about-text-two footer-widget__company-two footer-widget__newsletter-two footer-widget__contact-two footer__widget-2 footer-col-2-' . $num . ' mb-50 %2$s">',
                 'after_widget'  => '</div>',
-                'before_title'  => '<div class="footer-widget-two__title-box">',
+                'before_title'  => '<div class="footer-widget__title-box">',
                 'after_title'   => '</div>',
             ]);
         }
     }
 
-    //  Home Dark Footer 
-    if ($footer_style_3_switch) {
+    //  Inner Pages Footer 
+    if ($footer_style_2_switch) {
         for ($num = 1; $num <= $footer_widgets; $num++) {
+
             register_sidebar([
                 'name'          => sprintf(esc_html__('Footer Style 3 : %1$s', 'belco'), $num),
-                'id'            => 'footer-3-' . $num,
+                'id'            => 'footer-2-' . $num,
                 'description'   => sprintf(esc_html__('Footer Style 3 : %1$s', 'belco'), $num),
-                'before_widget' => '<div id="%1$s" class="archive-unit footer__widget footer-widget__column footer-widget__about-text-two footer-widget__company-two footer-widget__newsletter-two footer-widget__contact-two footer__widget-3 footer-col-3-' . $num . ' mb-50 %2$s">',
+                'before_widget' => '<div id="%1$s" class="menu-custom footer-margin-css footer-widget-two__column ul li a footer-widget-two__about footer-widget-two__portfolio footer-widget-two__company footer-widget-two__contact footer-col-3-' . $num . 'mb-50 %2$s">',
                 'after_widget'  => '</div>',
-                'before_title'  => '<div class="footer-widget__title-box">',
+                'before_title'  => '<div class="footer-widget-two__title-box">',
                 'after_title'   => '</div>',
             ]);
         }
