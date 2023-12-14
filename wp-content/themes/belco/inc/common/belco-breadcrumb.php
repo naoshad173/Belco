@@ -93,29 +93,6 @@ function belco_breadcrumb_func()
             </div>
         </section>
         <!--Page Header End-->
-
-
-        <!-- page title area start -->
-
-        <section class="d-none breadcrumb__area include-bg pt-150 pb-150 breadcrumb__overlay <?php print esc_attr($breadcrumb_class); ?>" data-background="<?php print esc_attr($bg_img); ?>">
-            <div class="container">
-                <div class="row">
-                    <?php if (!empty($breadcrumb_info_switch)) : ?>
-                        <div class="col-xxl-12">
-                            <div class="breadcrumb__content text-center p-relative z-index-1">
-                                <h3 class="breadcrumb__title"><?php echo wp_kses_post($title); ?></h3>
-                                <div class="breadcrumb__list">
-                                    <?php if (function_exists('bcn_display')) {
-                                        bcn_display();
-                                    } ?>
-                                </div>
-                            </div>
-                        </div>
-                    <?php endif; ?>
-                </div>
-            </div>
-        </section>
-        <!-- page title area end -->
     <?php
     }
 }

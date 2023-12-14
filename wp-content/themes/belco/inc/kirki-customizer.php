@@ -220,7 +220,7 @@ function _header_top_fields($fields)
         'settings' => 'belco_phone_num',
         'label'    => esc_html__('Phone Number', 'belco'),
         'section'  => 'header_top_setting',
-        'default'  => esc_html__('+1 212 333 400', 'belco'),
+        'default'  => esc_html__('+1212333400', 'belco'),
         'priority' => 10,
     ];
 
@@ -515,7 +515,7 @@ function _header_side_fields($fields)
         'settings' => 'belco_extra_phone',
         'label'    => esc_html__('Phone Number', 'belco'),
         'section'  => 'header_side_setting',
-        'default'  => esc_html__('+0989 7876 9865 9', 'belco'),
+        'default'  => esc_html__('+0989787698659', 'belco'),
         'priority' => 10,
     ];
 

@@ -691,7 +691,7 @@ get_header();
                                  <div class="pricing-one__price-box-two">
                                     <p class="pricing-one__price-title-two">Basic Plan</p>
                                     <h3 class="pricing-one__price-two">$15<span>/montly</span></h3>
-                                    <p class="pricing-one__text" -two>Popularised in the follower with the etraset sheets containing.</p>
+                                    <p class="pricing-one__text-two">Popularised in the follower with the etraset sheets containing.</p>
                                  </div>
                                  <ul class="list-unstyled pricing-one__points-list-two">
                                     <li>
@@ -1064,7 +1064,7 @@ get_header();
                                 }
                             }'>
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                     <div class="testimonial-one__single" id="testimonial-dark-single-1">
                         <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
@@ -1082,7 +1082,7 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                     <div class="testimonial-one__single" id="testimonial-dark-single-2">
                         <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
@@ -1100,7 +1100,7 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                     <div class="testimonial-one__single" id="testimonial-dark-single-3">
                         <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
@@ -1118,7 +1118,7 @@ get_header();
                      </div>
                      <!--Testimonial One Single End-->
                      <!--Testimonial One Single Start-->
-                     <div class="testimonial-one__single" id="testimonial-dark-single">
+                     <div class="testimonial-one__single" id="testimonial-dark-single-4">
                         <p class="testimonial-one__text-two">
                            "I am really satisfied with it. I'm good to go. It really saves me time and effort. Lorem Ipsum is
                            simply dummy text of the printing and typesetting industry. It's is exactly what our business has been
@@ -1252,11 +1252,11 @@ get_header();
             <div class="col-xl-7 col-lg-7">
                <div class="faq-one__right">
                   <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
-                     <div id="acordion-dark" class="accrodion">
-                        <div id="accordion-title-two" class="accrodion-title">
+                     <div id="acordion-dark-1" class="accrodion">
+                        <div id="accordion-title-two-1" class="accrodion-title">
                            <h4><span>Q1.</span>What activities are done in the development?</h4>
                         </div>
-                        <div id="accordion-two" class="accrodion-content">
+                        <div id="accordion-two-1" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1267,11 +1267,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div id="acordion-dark" class="accrodion active">
-                        <div id="accordion-title-two" class="accrodion-title">
+                     <div id="acordion-dark-2" class="accrodion active">
+                        <div id="accordion-title-two-2" class="accrodion-title">
                            <h4><span>Q2.</span>How can i use landbook When should I use a Tag?</h4>
                         </div>
-                        <div id="accordion-two" class="accrodion-content">
+                        <div id="accordion-two-2" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1282,11 +1282,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div id="acordion-dark" class="accrodion">
-                        <div id="accordion-title-two" class="accrodion-title">
+                     <div id="acordion-dark-3" class="accrodion">
+                        <div id="accordion-title-two-3" class="accrodion-title">
                            <h4><span>Q3.</span>Are social media good for the business growth?</h4>
                         </div>
-                        <div id="accordion-two" class="accrodion-content">
+                        <div id="accordion-two-3" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1297,11 +1297,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div id="acordion-dark" class="accrodion">
-                        <div id="accordion-title-two" class="accrodion-title">
+                     <div id="acordion-dark-4" class="accrodion">
+                        <div id="accordion-title-two-4" class="accrodion-title">
                            <h4><span>Q4.</span>How often should i work on the digital marketing?</h4>
                         </div>
-                        <div id="accordion-two" class="accrodion-content">
+                        <div id="accordion-two-4" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like
@@ -1312,11 +1312,11 @@ get_header();
                            <!-- /.inner -->
                         </div>
                      </div>
-                     <div id="acordion-dark" class="accrodion">
-                        <div id="accordion-title-two" class="accrodion-title">
+                     <div id="acordion-dark-5" class="accrodion">
+                        <div id="accordion-title-two-5" class="accrodion-title">
                            <h4><span>Q5.</span>What are the different types of marketing solutions?</h4>
                         </div>
-                        <div id="accordion-two" class="accrodion-content">
+                        <div id="accordion-two-5" class="accrodion-content">
                            <div class="inner">
                               <p>
                                  Follow these 6 steps and you’ll get your Help Scout account up and running in no time. If you'd like

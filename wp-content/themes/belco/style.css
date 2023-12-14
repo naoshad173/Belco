@@ -1,8 +1,8 @@
 /*!
-Theme Name: belco
-Theme URI: https://themeforest.net/user/intertheme/portfolio
+Theme Name: Belco
+Theme URI: https://xqodex.xyz/wpbelco/belco/
 Author: Intertheme
-Author URI: https://themeforest.net/user/intertheme
+Author URI: https://themeforest.net/user/intertheme/portfolio
 Description: Belco – Consultancy & Business WordPress Theme
 Version: 1.0.0
 License: GNU General Public License v2 or later
@@ -13,77 +13,3 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-.tutor-container, .tutor-container-sm, .tutor-container-md, .tutor-container-lg, .tutor-container-xl, .tutor-container-xxl {
-	max-width: 1225px;
-}
-
-.cat__icon {
-	font-size: 25px;
-}
-
-.fea__icon {
-	font-size: 40px;
-}
-
-.research__features-icon span {
-	font-size: 25px;
-}
-
-.page-header__inner span {
-	color: #fff;
-	margin: 0px 2px;
-}
-
-span.fa-solid.fa-chevron-right {
-	font-size: 14px;
-}
-
-ul#menu-company {
-	color: #fff;
-	display: block;
-	margin-top: 0px;
-	line-height: 44px;
-	transition: .3s;
-	font-size: 16px;
-	padding: 0;
-}
-
-ul#menu-company a:hover {
-	color: #FF5100;
-	-webkit-transition: all 500ms ease;
-	transition: all 500ms ease;
-}
-
-.footer-widget__company-list li a {
-	font-size: 16px;
-	font-weight: 400;
-	line-height: 26px;
-	color: var(--belco-gray);
-}
-
-div#nav_menu-2 {
-	margin-left: 60px;
-}
-
-h3.menu-title {
-	margin-left: 30px;
-	margin-bottom: 12px;
-}
-
-h3.title-custom {
-	margin-left: 30px;
-	font-size: 14px;
-	font-weight: 500;
-}
-
-.footer-widget-two__column ul li a {
-	color: #D0D5DD;
-	font-size: 14px;
-	font-weight: 400;
-}
-
-.footer-widget-two__contact {
-	position: relative;
-	display: block;
-	margin-left: 0px;
-}

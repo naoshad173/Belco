@@ -11165,13 +11165,13 @@ p.footer-widget__newsletter-text {
 }
 
 .services-page__title a {
-	color: var(--belco-black);
-	-webkit-transition: all 500ms ease;
+	color: var(--belco-black)!important;
+	-webkit-transition: all 500ms ease!important;
 	transition: all 500ms ease;
 }
 
 .services-page__title a:hover {
-	color: var(--belco-base);
+	color: var(--belco-base)!important;
 }
 
 .services-page__icon {
@@ -11240,13 +11240,13 @@ p.footer-widget__newsletter-text {
 	justify-content: center;
 	font-size: 16px;
 	font-weight: 500;
-	color: var(--belco-black);
+	color: var(--belco-black)!important;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 }
 
 .services-page__btn a:hover {
-	color: var(--belco-base);
+	color: var(--belco-base)!important;
 }
 
 .services-page__btn a span {

@@ -98,5 +98,4 @@ switch ($footer_columns) {
   </div>
 </footer>
 <!--Site Footer End-->
-</div>
 <!-- /.page-wrapper -->

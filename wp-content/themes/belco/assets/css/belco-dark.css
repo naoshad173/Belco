@@ -1108,11 +1108,23 @@ p.why-choose-one__text-two {
 
 /* testimonial area */
 
-#testimonial-dark-single {
+#testimonial-dark-single-1 {
     background-color: #0D121E;
 
 }
+#testimonial-dark-single-2 {
+    background-color: #0D121E;
 
+}
+#testimonial-dark-single-3 {
+    background-color: #0D121E;
+
+}
+#testimonial-dark-single-4 {
+    background-color: #0D121E;
+
+}
+ 
 .testimonial-one {
     position: relative;
     display: block;
@@ -1556,11 +1568,23 @@ p.why-choose-one__text-two {
     transition-delay: 0.1s;
     padding-right: 25px;
 }
-
-#acordion-dark {
+ 
+#acordion-dark-1 {
     background-color: #0D121E;
 }
-
+#acordion-dark-2 {
+    background-color: #0D121E;
+}
+#acordion-dark-3 {
+    background-color: #0D121E;
+}
+#acordion-dark-4 {
+    background-color: #0D121E;
+}
+#acordion-dark-5 {
+    background-color: #0D121E;
+}
+ 
 .faq-one-accrodion .accrodion-title-two h4 {
     margin: 0;
     font-size: 20px;
@@ -1622,11 +1646,35 @@ p.why-choose-one__text-two {
     margin: 0;
 }
 
-#accordion-two p {
+#accordion-two-1 p {
+    color: #EAECF0;
+}
+#accordion-two-2 p {
+    color: #EAECF0;
+}
+#accordion-two-3 p {
+    color: #EAECF0;
+}
+#accordion-two-4 p {
+    color: #EAECF0;
+}
+#accordion-two-5 p {
     color: #EAECF0;
 }
 
-#accordion-title-two h4 {
+#accordion-title-two-1 h4 {
+    color: #fff;
+}
+#accordion-title-two-2 h4 {
+    color: #fff;
+}
+#accordion-title-two-3 h4 {
+    color: #fff;
+}
+#accordion-title-two-4 h4 {
+    color: #fff;
+}
+#accordion-title-two-5 h4 {
     color: #fff;
 }
 
