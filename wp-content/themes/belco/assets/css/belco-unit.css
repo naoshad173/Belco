@@ -142,8 +142,8 @@ div.latest-comments>ul {
 }
 
 .tp-blog-area dl, .tp-blog-area ol, .tp-blog-area ul {
-    margin-top: 10px;
-    margin-bottom: 25px;
+	margin-top: 10px;
+	margin-bottom: 25px;
 }
 
 .postbox__details ol li, .postbox__details ul li {
@@ -1792,9 +1792,9 @@ h2.wp-block-heading {
 }
 
 .footer-widget__column ul li a {
-    -webkit-transition: all 500ms ease !important;
-    transition: all 500ms ease !important;
-    color: #7c818c!important;
+	-webkit-transition: all 500ms ease !important;
+	transition: all 500ms ease !important;
+	color: #7c818c !important;
 }
 
 .footer-widget__column ul li a:hover {
@@ -1843,11 +1843,11 @@ h2.wp-block-heading {
 }
 
 .main-menu__logo a img {
-    width: 147px;
+	width: 147px;
 }
 
 .footer-widget__logo a img {
-    width: 147px;
+	width: 147px;
 }
 
 .tutor-container, .tutor-container-sm, .tutor-container-md, .tutor-container-lg, .tutor-container-xl, .tutor-container-xxl {
@@ -1926,5 +1926,5 @@ h3.title-custom {
 }
 
 .logo-box a.standard-logo img {
-    width: 147px;
+	width: 147px;
 }
