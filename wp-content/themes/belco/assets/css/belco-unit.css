@@ -1928,3 +1928,7 @@ h3.title-custom {
 .logo-box a.standard-logo img {
 	width: 147px;
 }
+
+.footer-widget-two__logo a img {
+    width: 147px;
+}
