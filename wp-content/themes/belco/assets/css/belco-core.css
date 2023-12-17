@@ -621,7 +621,7 @@ dl, ol, ul {
 }
 
 .main-header__contact-list li .text p a {
-	color: #f1f1f1;
+	color: #f1f1f1 !important;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 }
@@ -654,7 +654,7 @@ dl, ol, ul {
 	position: relative;
 	display: inline-block;
 	font-size: 13px;
-	color: #f1f1f1;
+	color: #f1f1f1 !important;
 	font-weight: 400;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
@@ -683,7 +683,7 @@ dl, ol, ul {
 	align-items: center;
 	justify-content: center;
 	font-size: 14px;
-	color: var(--belco-white);
+	color: var(--belco-white) !important;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 }
@@ -798,7 +798,7 @@ dl, ol, ul {
 }
 
 .main-menu__call-number a {
-	color: var(--belco-white);
+	color: var(--belco-white) !important;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
 }
@@ -861,7 +861,7 @@ dl, ol, ul {
 	-ms-flex-align: center;
 	font-family: 'Poppins', sans-serif;
 	align-items: center;
-	color: var(--belco-white);
+	color: var(--belco-white) !important;
 	position: relative;
 	font-weight: 500;
 	-webkit-transition: all 500ms ease;
