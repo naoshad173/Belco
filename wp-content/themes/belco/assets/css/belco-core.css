@@ -1097,14 +1097,14 @@ dl, ol, ul {
 
 .main-menu .mobile-nav__toggler {
 	font-size: 20px;
-	color: var(--belco-white);
+	color: var(--belco-white) !important;
 	cursor: pointer;
-	-webkit-transition: 500ms;
-	transition: 500ms;
+	-webkit-transition: 500ms !important;
+	transition: 500ms !important;
 }
 
 .main-menu .mobile-nav__toggler:hover {
-	color: var(--belco-base);
+	color: var(--belco-base) !important;
 }
 
 @media (min-width:1200px) {
@@ -1238,7 +1238,7 @@ dl, ol, ul {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	line-height: 30px;
-	color: #ffffff;
+	color: #ffffff !important;
 	font-size: 14px;
 	font-family: var(--belco-font);
 	font-weight: 500;
@@ -1251,11 +1251,11 @@ dl, ol, ul {
 }
 
 .mobile-nav__content .main-menu__list>li>a.expanded .mobile-nav__content .main-menu__list>li>ul>li>a.expanded .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a.expanded {
-	color: var(--belco-base);
+	color: var(--belco-base) !important;
 }
 
 .mobile-nav__content .main-menu__list li a.expanded {
-	color: var(--belco-base);
+	color: var(--belco-base) !important;
 }
 
 .mobile-nav__content .main-menu__list>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button {
@@ -1341,8 +1341,8 @@ dl, ol, ul {
 
 .mobile-nav__social a {
 	font-size: 16px;
-	color: var(--belco-white);
-	-webkit-transition: 500ms;
+	color: var(--belco-white) !important;
+	-webkit-transition: 500ms !important;
 	transition: 500ms;
 }
 
@@ -1351,7 +1351,7 @@ dl, ol, ul {
 }
 
 .mobile-nav__social a:hover {
-	color: var(--belco-base);
+	color: var(--belco-base) !important;
 }
 
 .mobile-nav__contact {
@@ -1378,13 +1378,13 @@ dl, ol, ul {
 }
 
 .mobile-nav__contact li a {
-	color: #ffffff;
-	-webkit-transition: 500ms;
-	transition: 500ms;
+	color: #ffffff !important;
+	-webkit-transition: 500ms !important;
+	transition: 500ms !important;
 }
 
 .mobile-nav__contact li a:hover {
-	color: var(--belco-base);
+	color: var(--belco-base) !important;
 }
 
 .mobile-nav__contact li>i {
@@ -8667,6 +8667,11 @@ p.footer-widget__newsletter-text {
 	display: block;
 	text-align: center;
 	padding: 35px 0 33px;
+}
+
+.site-footer-two__bottom-inner .site-footer__bottom-text {
+	color: #EAECF0;
+	font-size: 14px;
 }
 
 .site-footer-two__bottom-text {
