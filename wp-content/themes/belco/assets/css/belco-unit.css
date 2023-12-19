@@ -376,7 +376,7 @@ pre {
 
 .tp-post-tag a:hover {
 	color: var(--tp-common-white);
-	background: var(--tp-theme-1);
+	background: var(--tp-theme-1)!important;
 }
 
 .postbox__text .wp-block-tag-cloud a {
@@ -1425,16 +1425,21 @@ ul.sidebar__post-list.list-unstyled {
 }
 
 .sidebar__tag .tagcloud a {
-	color: #414651 !important;
-	font-size: 14px !important;
+    color: #414651 !important;
+    font-size: 14px !important;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease; 
+    padding: 7px 10px;
+    background-color: #F2F4F7;
+    border-radius: 4px;
 	-webkit-transition: all 500ms ease;
-	transition: all 500ms ease;
+	transition: all 500ms ease; 
 }
 
 .sidebar__tag .tagcloud a:hover {
-	color: var(--belco-base) !important;
+	color: #fff!important;
+	background-color: var(--belco-base) !important;
 }
-
 
 .sidebar__post-image {
 	max-width: 80px;
