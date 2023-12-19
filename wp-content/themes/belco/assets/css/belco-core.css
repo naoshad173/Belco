@@ -16201,6 +16201,10 @@ p.footer-widget__newsletter-text {
 .error-page__btn:before {
 	background-color: var(--belco-black);
 }
+ 
+.site-footer .site-footer__bottom .site-footer__bottom-inner p.site-footer__bottom-text {
+    color: #475467!important;
+}
 
 /*--------------------------------------------------------------
 # Portfolio Two

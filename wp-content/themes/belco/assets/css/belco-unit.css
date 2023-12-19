@@ -2756,6 +2756,16 @@ h3.title-custom {
 	color: #EAECF0 !important;
 }
 
+.footer-widget-three__column .wp-block-latest-comments article a.wp-block-latest-comments__comment-author {
+    color: var(--tp-theme-1);
+    font-size: 14px!important;
+}
+
+.footer-widget-three__column .wp-block-latest-comments__comment .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-link {
+    font-weight: 500 !important;
+    font-size: 14px!important; 
+}
+
 .footer-widget-three__column .wp-block-group__inner-container .wp-block-latest-posts__list li a {
 	position: relative;
 	display: flex;
