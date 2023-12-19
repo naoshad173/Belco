@@ -350,8 +350,6 @@ function belco_check_footer()
         get_template_part('template-parts/footer/footer-2');
     } elseif ($belco_footer_style == 'footer-style-3') {
         get_template_part('template-parts/footer/footer-3');
-    } elseif ($belco_footer_style == 'footer-style-4') {
-        get_template_part('template-parts/footer/footer-4');
     } else {
 
         /** default footer style **/
@@ -359,8 +357,6 @@ function belco_check_footer()
             get_template_part('template-parts/footer/footer-2');
         } elseif ($belco_default_footer_style == 'footer-style-3') {
             get_template_part('template-parts/footer/footer-3');
-        } elseif ($belco_default_footer_style == 'footer-style-4') {
-            get_template_part('template-parts/footer/footer-4');
         } else {
             get_template_part('template-parts/footer/footer-1');
         }

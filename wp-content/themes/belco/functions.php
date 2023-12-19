@@ -111,7 +111,7 @@ if (!function_exists('belco_setup')) :
         // Add support for responsive embedded content.
         add_theme_support('responsive-embeds');
 
-        remove_theme_support('widgets-block-editor');
+        //remove_theme_support('widgets-block-editor');
 
         add_image_size('belco-case-details', 1170, 600, ['center', 'center']);
     }
