@@ -1437,6 +1437,7 @@ ul.sidebar__post-list.list-unstyled {
     border-radius: 4px;
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease; 
+	margin-bottom: 7px;
 }
 
 .sidebar__tag .tagcloud a:hover {
