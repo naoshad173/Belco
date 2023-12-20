@@ -188,32 +188,6 @@ function _header_top_fields($fields)
         ],
     ];
 
-    $fields[] = [
-        'type'     => 'switch',
-        'settings' => 'belco_search',
-        'label'    => esc_html__('Header Search On/Off', 'belco'),
-        'section'  => 'header_top_setting',
-        'default'  => '0',
-        'priority' => 10,
-        'choices'  => [
-            'on'  => esc_html__('Enable', 'belco'),
-            'off' => esc_html__('Disable', 'belco'),
-        ],
-    ];
-
-    $fields[] = [
-        'type'     => 'switch',
-        'settings' => 'belco_header_lang',
-        'label'    => esc_html__('language On/Off', 'belco'),
-        'section'  => 'header_top_setting',
-        'default'  => '0',
-        'priority' => 10,
-        'choices'  => [
-            'on'  => esc_html__('Enable', 'belco'),
-            'off' => esc_html__('Disable', 'belco'),
-        ],
-    ];
-
     // phone
     $fields[] = [
         'type'     => 'text',
