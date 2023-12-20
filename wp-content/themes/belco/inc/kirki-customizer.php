@@ -411,9 +411,7 @@ function _header_header_fields($fields)
         'priority'    => 10,
         'multiple'    => 1,
         'choices'     => [
-            'header-style-1'   => get_template_directory_uri() . '/inc/img/header/header-1.png',
-            'header-style-2' => get_template_directory_uri() . '/inc/img/header/header-2.png',
-            'header-style-3'  => get_template_directory_uri() . '/inc/img/header/header-3.png'
+            'header-style-1'   => get_template_directory_uri() . '/inc/img/header/header-1.png'
         ],
         'default'     => 'header-style-1',
     ];
@@ -425,15 +423,6 @@ function _header_header_fields($fields)
         'description' => esc_html__('Upload Your Logo.', 'belco'),
         'section'     => 'section_header_logo',
         'default'     => get_template_directory_uri() . '/assets/images/resources/logo-1.png',
-    ];
-
-    $fields[] = [
-        'type'        => 'image',
-        'settings'    => 'seconday_logo',
-        'label'       => esc_html__('Header Secondary Logo', 'belco'),
-        'description' => esc_html__('Header Logo Black', 'belco'),
-        'section'     => 'section_header_logo',
-        'default'     => get_template_directory_uri() . '/assets/img/logo/logo-2.png',
     ];
 
     $fields[] = [
