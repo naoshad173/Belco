@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.1" created="2023-12-20 11:17" -->
+	<!-- generator="WordPress/6.4.1" created="2023-12-21 14:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Belco</title>
 	<link>https://xqodex.xyz/wpbelco/belco</link>
 	<description>Consultancy &#38; Business WordPress Theme</description>
-	<pubDate>Wed, 20 Dec 2023 11:17:37 +0000</pubDate>
+	<pubDate>Thu, 21 Dec 2023 14:10:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://xqodex.xyz/wpbelco/belco</wp:base_site_url>
