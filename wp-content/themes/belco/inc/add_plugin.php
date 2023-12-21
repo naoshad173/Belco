@@ -38,6 +38,11 @@ function belco_register_required_plugins()
             'external_url' => esc_url('https://xqodex.xyz/wpbelco/belco/source/tp-core.zip'),
         ],
         [
+            'name'     => esc_html__('Advanced Custom Field', 'belco'),
+            'slug'     => 'advanced-custom-fields',
+            'required' => false,
+        ],
+        [
             'name'     => esc_html__('WP Classic Editor', 'belco'),
             'slug'     => 'classic-editor',
             'required' => false,
