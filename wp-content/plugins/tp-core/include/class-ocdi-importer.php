@@ -20,16 +20,16 @@ class TP_OCDI_Demo_Importer
 
         $home_prevs = array(
             'tp_demo_home_1' => array(
-                'title' => __('Home One', 'tpcore'),
+                'title' => __('Home Light', 'tpcore'),
                 'page'  => __('home', 'tpcore'),
                 'screenshot' => plugins_url('assets/img/demo/home1.jpg', dirname(__FILE__)),
-                'preview_link' => 'https://xqodex.xyz/tk/',
+                'preview_link' => 'https://xqodex.xyz/wpbelco/belco/',
             ),
             'tp_demo_home_2' => array(
-                'title' => __('Home Two', 'tpcore'),
+                'title' => __('Home Dark', 'tpcore'),
                 'page'  => __('home-02', 'tpcore'),
                 'screenshot' => plugins_url('assets/img/demo/home2.jpg', dirname(__FILE__)),
-                'preview_link' => 'https://xqodex.xyz/tk/home-02/',
+                'preview_link' => 'https://xqodex.xyz/wpbelco/belco/home-02/',
             ),
         );
 
@@ -47,9 +47,9 @@ class TP_OCDI_Demo_Importer
                 'import_file_id'               => $key,
                 'import_page_name'             => $prev['page'],
                 'import_file_name'             => $prev['title'],
-                'url_import_file'            => $contents_demo,
-                'url_import_widget_file'     => $widget_settings,
-                'url_import_customizer_file' => $customizer_data,
+                'local_import_file'            => $contents_demo,
+                'local_import_widget_file'     => $widget_settings,
+                'local_import_customizer_file' => $customizer_data,
                 'import_preview_image_url'     => $prev['screenshot'],
                 'preview_url'                  => $prev['preview_link'],
                 'import_notice'                => esc_html__('After you import this demo, you will have to setup the slider separately.', 'tpcore'),
@@ -82,7 +82,7 @@ class TP_OCDI_Demo_Importer
     {
 
         $front_page = get_page_by_title($selected_import['import_page_name']);
-        $blog_page = get_page_by_title('Blog list');
+        $blog_page = get_page_by_title('Blog');
 
         update_option('show_on_front', 'page');
         update_option('page_on_front', $front_page->ID);
